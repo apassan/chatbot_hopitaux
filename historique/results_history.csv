@@ -1,0 +1,1682 @@
+date,question,ville,type,spécialité,résultat
+2025-01-21 15:20:24,comment soigner mon Audition dans un hôpital Publique à Paris?,Paris,Public,Audition,"Voici les 3 hôpitaux dans un rayon de 50km:
+Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+Fondation Rothschild, Paris (75) - Public - 18.21"
+2025-01-21 15:20:57,comment soigner mon Audition dans un hôpital Publique à Lyon?,Lyon,Public,Audition,"Voici les 3 hôpitaux dans un rayon de 50km:
+CH Lyon-Sud, Pierre-Bénite (69) - Public - 18.39
+CHU - Hôpital Nord, Saint-Etienne (42) - Public - 18.0
+Hôpital Edouard-Herriot, Lyon (69) - Public - 17.61"
+2025-01-21 17:13:50,J'ai très mal aux pieds à Paris,Paris,aucune correspondance,Chirurgie du pied,"Voici les 3 hôpitaux dans un rayon de 50km:
+Hôpital de la Croix-Saint-Simon, Paris (75) - Public - 19.22
+Hôpital Ambroise-Paré, Boulogne-Billancourt (92) - Public - 18.87
+Clinique Victor-Hugo, Paris (75) - Privé - 18.74"
+2025-01-22 15:36:03,Je veux soigner mon audition à Marseille,Marseille,aucune correspondance,Audition,"Voici les 3 hôpitaux dans un rayon de 200km:
+Hôpital privé Clairval, Marseille (13) - Privé - 17.81
+CHU - Hôpital Gui-de-Chauliac, Montpellier (34) - Public - 17.8
+CHU, Nîmes (30) - Public - 17.58"
+2025-01-22 15:39:06,Je veux soigner mon audition à Toulon,Toulon,aucune correspondance,Audition,"Voici les 3 hôpitaux dans un rayon de 200km:
+Hôpital privé Clairval, Marseille (13) - Privé - 17.81
+CHU - Hôpital Gui-de-Chauliac, Montpellier (34) - Public - 17.8
+CHU, Nîmes (30) - Public - 17.58"
+2025-01-22 15:39:06,Je veux soigner mon audition à Toulon,Toulon,aucune correspondance,Audition,"Voici les 3 hôpitaux dans un rayon de 200km:
+Hôpital privé Clairval, Marseille (13) - Privé - 17.81
+CHU - Hôpital Gui-de-Chauliac, Montpellier (34) - Public - 17.8
+CHU, Nîmes (30) - Public - 17.58"
+2025-01-22 15:40:06,Je veux soigner mon audition à Lille,Lille,aucune correspondance,Audition,"Voici les 3 hôpitaux dans un rayon de 50km:
+Hôpital privé La Louvière, Lille (59) - Privé - 17.95
+Hôpital privé Le Bois, Lille (59) - Privé - 17.56
+Polyclinique du Parc, Saint-Saulve (59) - Privé - 17.41"
+2025-01-22 16:42:10,Je veux soigner mon audition à Sartrouville,Sartrouville,aucune correspondance,Audition,"Voici les 3 hôpitaux dans un rayon de 50km:
+Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-22 17:19:20,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 hôpitaux dans un rayon de 50km:
+Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-22 18:13:50,J'ai un cancer à Lyon,Lyon,aucune correspondance,,"Voici les 3 hôpitaux dans un rayon de 50km:
+Hôpital Pierre-Wertheimer, Bron (69) - Public - 19.68
+CHU - Hôpital Nord, Saint-Etienne (42) - Public - 19.59
+Hôpital Pierre-Wertheimer, Bron (69) - Public - 19.26"
+2025-01-22 18:21:44,J'ai un cancer à Lyon,Lyon,aucune correspondance,Cancer de l'ovaire,"Voici les 3 hôpitaux dans un rayon de 50km:
+Centre Léon-Bérard (CLCC), Lyon (69) - Public - 18.54
+CH Lyon-Sud, Pierre-Bénite (69) - Public - 18.35
+Hôpital privé Jean-Mermoz, Lyon (69) - Privé - 16.6"
+2025-01-23 10:02:14,Je veux faire soigner mon audition à Lyon,Lyon,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: None hôpitaux dans un rayon de 50km:
+CH Lyon-Sud, Pierre-Bénite (69) - Public - 18.39
+CHU - Hôpital Nord, Saint-Etienne (42) - Public - 18.0
+Hôpital Edouard-Herriot, Lyon (69) - Public - 17.61"
+2025-01-23 10:10:26,Je veux faire soigner mon audition à Loyn,aucune correspondance,aucune correspondance,Audition,
+2025-01-23 10:16:05,Je veux faire soigner mon audition à Cannes,Cannes,aucune correspondance,Audition,
+2025-01-23 10:20:02,Je veux faire soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition hôpitaux dans un rayon de 50km:
+Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-23 10:27:36,Je veux faire soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux de type aucune correspondance pour la spécialité: Audition dans un rayon de 50km:
+Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-23 10:31:01,Je veux faire soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux de type aucune correspondance pour la spécialité: Audition dans un rayon de 50km:
+Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-23 10:36:15,Je veux faire soigner mon audition à Cannes,Cannes,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de Cannes:
+Hôpital privé Clairval, Marseille (13) - Privé - 17.81
+Hôpital Nord, Marseille (13) - Public - 17.46"
+2025-01-23 10:36:15,Je veux faire soigner mon audition à Cannes,Cannes,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de Cannes:
+Hôpital privé Clairval, Marseille (13) - Privé - 17.81
+Hôpital Nord, Marseille (13) - Public - 17.46"
+2025-01-23 10:38:16,Je veux faire soigner mon audition à Cannes,Cannes,aucune correspondance,Audition,"Voici les 2 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de Cannes:
+Hôpital privé Clairval, Marseille (13) - Privé - 17.81
+Hôpital Nord, Marseille (13) - Public - 17.46"
+2025-01-23 10:38:16,Je veux faire soigner mon audition à Cannes,Cannes,aucune correspondance,Audition,"Voici les 2 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de Cannes:
+Hôpital privé Clairval, Marseille (13) - Privé - 17.81
+Hôpital Nord, Marseille (13) - Public - 17.46"
+2025-01-23 14:14:20,Je veux faire soigner mon audition à Cannes,Cannes,aucune correspondance,Audition,"Voici les 2 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de Cannes:
+Hôpital privé Clairval, Marseille (13) - Privé - 17.81
+Hôpital Nord, Marseille (13) - Public - 17.46"
+2025-01-23 14:14:20,Je veux faire soigner mon audition à Cannes,Cannes,aucune correspondance,Audition,"Voici les 2 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de Cannes:
+Hôpital privé Clairval, Marseille (13) - Privé - 17.81
+Hôpital Nord, Marseille (13) - Public - 17.46"
+2025-01-23 16:49:05,Je veux faire soigner mon audition à Cannes,Cannes,aucune correspondance,Audition,"Voici les 2 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de Cannes:
+Hôpital privé Clairval, Marseille (13) - Privé - 17.81
+Hôpital Nord, Marseille (13) - Public - 17.46"
+2025-01-23 16:49:05,Je veux faire soigner mon audition à Cannes,Cannes,aucune correspondance,Audition,"Voici les 2 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de Cannes:
+Hôpital privé Clairval, Marseille (13) - Privé - 17.81
+Hôpital Nord, Marseille (13) - Public - 17.46"
+2025-01-23 16:55:29,Je veux faire soigner mon audition à Cannes,Cannes,aucune correspondance,Audition,"Voici les 2 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de Cannes:
+Hôpital privé Clairval, Marseille (13) - Privé - 17.81
+Hôpital Nord, Marseille (13) - Public - 17.46"
+2025-01-23 16:55:29,Je veux faire soigner mon audition à Cannes,Cannes,aucune correspondance,Audition,"Voici les 2 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de Cannes:
+Hôpital privé Clairval, Marseille (13) - Privé - 17.81
+Hôpital Nord, Marseille (13) - Public - 17.46"
+2025-01-23 16:56:09,"Je veux faire soigner mon cancer à Cannes
+
+",Cannes,aucune correspondance,"plusieurs correspondances: Cancer de l'estomac et de l'œsophage, Cancer de l'ovaire, Cancer de l'utérus, Cancer de la prostate, Cancer de la thyroïde, Cancer de la vessie, Cancer du colon ou de l'intestin, Cancer du foie, Cancer du pancréas, Cancer du poumon, Cancer du rein, Cancer du sein, Cancer ORL, Cancers de la peau.","Voici les 2 meilleurs hôpitaux pour la spécialité: plusieurs correspondances: Cancer de l'estomac et de l'œsophage, Cancer de l'ovaire, Cancer de l'utérus, Cancer de la prostate, Cancer de la thyroïde, Cancer de la vessie, Cancer du colon ou de l'intestin, Cancer du foie, Cancer du pancréas, Cancer du poumon, Cancer du rein, Cancer du sein, Cancer ORL, Cancers de la peau. dans un rayon de 200km autour de Cannes:
+Hôpital Nord, Marseille (13) - Public - 17.85
+Institut Paoli-Calmettes (CLCC), Marseille (13) - Public - 15.89"
+2025-01-23 16:56:09,"Je veux faire soigner mon cancer à Cannes
+
+",Cannes,aucune correspondance,"plusieurs correspondances: Cancer de l'estomac et de l'œsophage, Cancer de l'ovaire, Cancer de l'utérus, Cancer de la prostate, Cancer de la thyroïde, Cancer de la vessie, Cancer du colon ou de l'intestin, Cancer du foie, Cancer du pancréas, Cancer du poumon, Cancer du rein, Cancer du sein, Cancer ORL, Cancers de la peau.","Voici les 2 meilleurs hôpitaux pour la spécialité: plusieurs correspondances: Cancer de l'estomac et de l'œsophage, Cancer de l'ovaire, Cancer de l'utérus, Cancer de la prostate, Cancer de la thyroïde, Cancer de la vessie, Cancer du colon ou de l'intestin, Cancer du foie, Cancer du pancréas, Cancer du poumon, Cancer du rein, Cancer du sein, Cancer ORL, Cancers de la peau. dans un rayon de 200km autour de Cannes:
+Hôpital Nord, Marseille (13) - Public - 17.85
+Institut Paoli-Calmettes (CLCC), Marseille (13) - Public - 15.89"
+2025-01-23 16:57:50,Je veux faire soigner mon cancer à Cannes,Cannes,aucune correspondance,"plusieurs correspondances: Cancer de l'estomac et de l'œsophage, Cancer de l'ovaire, Cancer de l'utérus, Cancer de la prostate, Cancer de la thyroïde, Cancer de la vessie, Cancer du colon ou de l'intestin, Cancer du foie, Cancer du pancréas, Cancer du poumon, Cancer du rein, Cancer du sein, Cancer ORL, Cancers de la peau.","Voici les 2 meilleurs hôpitaux pour la spécialité: plusieurs correspondances: Cancer de l'estomac et de l'œsophage, Cancer de l'ovaire, Cancer de l'utérus, Cancer de la prostate, Cancer de la thyroïde, Cancer de la vessie, Cancer du colon ou de l'intestin, Cancer du foie, Cancer du pancréas, Cancer du poumon, Cancer du rein, Cancer du sein, Cancer ORL, Cancers de la peau. dans un rayon de 200km autour de Cannes:
+Hôpital Nord, Marseille (13) - Public - 17.85
+Institut Paoli-Calmettes (CLCC), Marseille (13) - Public - 15.89"
+2025-01-23 16:57:50,Je veux faire soigner mon cancer à Cannes,Cannes,aucune correspondance,"plusieurs correspondances: Cancer de l'estomac et de l'œsophage, Cancer de l'ovaire, Cancer de l'utérus, Cancer de la prostate, Cancer de la thyroïde, Cancer de la vessie, Cancer du colon ou de l'intestin, Cancer du foie, Cancer du pancréas, Cancer du poumon, Cancer du rein, Cancer du sein, Cancer ORL, Cancers de la peau.","Voici les 2 meilleurs hôpitaux pour la spécialité: plusieurs correspondances: Cancer de l'estomac et de l'œsophage, Cancer de l'ovaire, Cancer de l'utérus, Cancer de la prostate, Cancer de la thyroïde, Cancer de la vessie, Cancer du colon ou de l'intestin, Cancer du foie, Cancer du pancréas, Cancer du poumon, Cancer du rein, Cancer du sein, Cancer ORL, Cancers de la peau. dans un rayon de 200km autour de Cannes:
+Hôpital Nord, Marseille (13) - Public - 17.85
+Institut Paoli-Calmettes (CLCC), Marseille (13) - Public - 15.89"
+2025-01-23 17:25:16,Je suis fou à Cannes,Cannes,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs hôpitaux pour la spécialité: aucune correspondance dans un rayon de 50km autour de Cannes:
+Institut universitaire de la face et du cou, Nice (06) - Public - 18.29
+Clinique de l’Espérance, Mougins (06) - Privé - 17.41
+Clinique Saint-François, Nice (06) - Privé - 17.23"
+2025-01-23 17:28:30,Je veux accoucher à Cannes,Cannes,aucune correspondance,"plusieurs correspondances: Accouchements à risques, Accouchements normaux","Voici les 3 meilleurs hôpitaux pour la spécialité: plusieurs correspondances: Accouchements à risques, Accouchements normaux dans un rayon de 50km autour de Cannes:
+Institut universitaire de la face et du cou, Nice (06) - Public - 18.29
+Clinique de l’Espérance, Mougins (06) - Privé - 17.41
+Clinique Saint-François, Nice (06) - Privé - 17.23"
+2025-01-23 17:29:08,Je veux accoucher à Cannes,Cannes,aucune correspondance,"plusieurs correspondances: Accouchements à risques, Accouchements normaux","Voici les 3 meilleurs hôpitaux pour la spécialité: plusieurs correspondances: Accouchements à risques, Accouchements normaux dans un rayon de 200km autour de Cannes:
+CHU - Hôpital de l’Archet, Nice (06) - Public - 17.64
+Hôpital Nord, Marseille (13) - Public - 17.39
+Hôpital de la Conception, Marseille (13) - Public - 16.65"
+2025-01-23 17:29:08,Je veux accoucher à Cannes,Cannes,aucune correspondance,"plusieurs correspondances: Accouchements à risques, Accouchements normaux","Voici les 3 meilleurs hôpitaux pour la spécialité: plusieurs correspondances: Accouchements à risques, Accouchements normaux dans un rayon de 200km autour de Cannes:
+CHU - Hôpital de l’Archet, Nice (06) - Public - 17.64
+Hôpital Nord, Marseille (13) - Public - 17.39
+Hôpital de la Conception, Marseille (13) - Public - 16.65"
+2025-01-23 17:47:27,Je veux accoucher à Cannes,Cannes,aucune correspondance,"plusieurs correspondances: Accouchements à risques, Accouchements normaux","Voici les 3 meilleurs hôpitaux pour la spécialité: plusieurs correspondances: Accouchements à risques, Accouchements normaux dans un rayon de 200km autour de Cannes:
+CHU - Hôpital de l’Archet, Nice (06) - Public - 17.64
+Hôpital Nord, Marseille (13) - Public - 17.39
+Hôpital de la Conception, Marseille (13) - Public - 16.65"
+2025-01-23 17:47:27,Je veux accoucher à Cannes,Cannes,aucune correspondance,"plusieurs correspondances: Accouchements à risques, Accouchements normaux","Voici les 3 meilleurs hôpitaux pour la spécialité: plusieurs correspondances: Accouchements à risques, Accouchements normaux dans un rayon de 200km autour de Cannes:
+CHU - Hôpital de l’Archet, Nice (06) - Public - 17.64
+Hôpital Nord, Marseille (13) - Public - 17.39
+Hôpital de la Conception, Marseille (13) - Public - 16.65"
+2025-01-23 17:57:14,je veux accoucher à Paris ,Paris,aucune correspondance,"plusieurs correspondances: Accouchements à risques, Accouchements normaux","Voici les 3 meilleurs hôpitaux pour la spécialité: plusieurs correspondances: Accouchements à risques, Accouchements normaux dans un rayon de 50km autour de Paris:
+Hôpital Cochin, Paris (75) - Public - 18.11
+Hôpital Louis-Mourier, Colombes (92) - Public - 18.1
+CHI, Saint-Germain-en-Laye (78) - Public - 17.91"
+2025-01-24 10:16:34,Je veux accoucher à Toulon.,Toulon,aucune correspondance,"plusieurs correspondances: Accouchements à risques, Accouchements normaux","Voici les 3 meilleurs hôpitaux pour la spécialité: plusieurs correspondances: Accouchements à risques, Accouchements normaux dans un rayon de 200km autour de Toulon:
+CHU - Hôpital Arnaud-de-Villeneuve, Montpellier (34) - Public - 17.98
+CHU - Hôpital de l’Archet, Nice (06) - Public - 17.64
+Hôpital Nord, Marseille (13) - Public - 17.39"
+2025-01-24 10:16:34,Je veux accoucher à Toulon.,Toulon,aucune correspondance,"plusieurs correspondances: Accouchements à risques, Accouchements normaux","Voici les 3 meilleurs hôpitaux pour la spécialité: plusieurs correspondances: Accouchements à risques, Accouchements normaux dans un rayon de 200km autour de Toulon:
+CHU - Hôpital Arnaud-de-Villeneuve, Montpellier (34) - Public - 17.98
+CHU - Hôpital de l’Archet, Nice (06) - Public - 17.64
+Hôpital Nord, Marseille (13) - Public - 17.39"
+2025-01-24 10:26:17,Je veux accoucher à Paris,Paris,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Paris:
+Hôpital Cochin, Paris (75) - Public - 18.11
+Hôpital Louis-Mourier, Colombes (92) - Public - 18.1
+CHI, Saint-Germain-en-Laye (78) - Public - 17.91"
+2025-01-24 10:31:57,Je veux accoucher à Paris,Paris,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Paris:
+Hôpital Cochin, Paris (75) - Public - 18.11
+Hôpital Louis-Mourier, Colombes (92) - Public - 18.1
+CHI, Saint-Germain-en-Laye (78) - Public - 17.91"
+2025-01-24 10:38:15,Je veux accoucher à Paris,Paris,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Paris:
+Hôpital Cochin, Paris (75) - Public - 18.11
+Hôpital Louis-Mourier, Colombes (92) - Public - 18.1
+CHI, Saint-Germain-en-Laye (78) - Public - 17.91"
+2025-01-24 10:39:47,Je veux accoucher à Paris,Paris,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Paris:
+Hôpital Cochin, Paris (75) - Public - 18.11
+Hôpital Louis-Mourier, Colombes (92) - Public - 18.1
+CHI, Saint-Germain-en-Laye (78) - Public - 17.91"
+2025-01-24 10:41:47,Je veux accoucher à Paris,Paris,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Paris:
+Hôpital Cochin, Paris (75) - Public - 18.11<br>
+Hôpital Louis-Mourier, Colombes (92) - Public - 18.1<br>
+CHI, Saint-Germain-en-Laye (78) - Public - 17.91<br>"
+2025-01-24 10:48:57,Je veux accoucher à Lille,Lille,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Lille:
+CHU - Hôpital Jeanne-de-Flandre, Lille (59) - Public - 18.71<br>
+CH, Lens (62) - Public - 17.29<br>
+CH, Valenciennes (59) - Public - 17.26<br>"
+2025-01-24 10:55:21,Je veux accoucher à Lille,Lille,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Lille:
+CHU - Hôpital Jeanne-de-Flandre, Lille (59) - Public - 18.71<br>
+CH, Lens (62) - Public - 17.29<br>
+CH, Valenciennes (59) - Public - 17.26<br>"
+2025-01-24 10:56:04,Je veux accoucher à Lille,Lille,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Lille:
+CHU - Hôpital Jeanne-de-Flandre, Lille (59) - Public - 18.71<br>
+CH, Lens (62) - Public - 17.29<br>
+CH, Valenciennes (59) - Public - 17.26<br>"
+2025-01-24 11:03:43,Je veux accoucher à Lille,Lille,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Lille:
+CHU - Hôpital Jeanne-de-Flandre, Lille (59) - Public - 18.71<br>
+CH, Lens (62) - Public - 17.29<br>
+CH, Valenciennes (59) - Public - 17.26<br>"
+2025-01-24 11:04:41,Je veux accoucher à Lille,Lille,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Lille:
+CHU - Hôpital Jeanne-de-Flandre, Lille (59) - Public - 18.71<br>
+CH, Lens (62) - Public - 17.29<br>
+CH, Valenciennes (59) - Public - 17.26<br>"
+2025-01-24 11:11:15,Je veux accoucher à Lille,Lille,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Lille:
+<br>CHU - Hôpital Jeanne-de-Flandre, Lille (59) - Public - 18.71
+<br>CH, Lens (62) - Public - 17.29
+<br>CH, Valenciennes (59) - Public - 17.26"
+2025-01-24 11:13:56,Je veux accoucher à Toulouse,Toulouse,aucune correspondance,Accouchements à risques,"Voici les 2 meilleurs hôpitaux pour la spécialité Accouchements à risques dans un rayon de 200km autour de Toulouse:<br> 
+CHU - Hôpitaux mère-enfants, Toulouse (31) - Public - 18.52
+CHU - Hôpital Arnaud-de-Villeneuve, Montpellier (34) - Public - 17.98"
+2025-01-24 11:13:56,Je veux accoucher à Toulouse,Toulouse,aucune correspondance,Accouchements à risques,"Voici les 2 meilleurs hôpitaux pour la spécialité Accouchements à risques dans un rayon de 200km autour de Toulouse:<br> 
+CHU - Hôpitaux mère-enfants, Toulouse (31) - Public - 18.52
+CHU - Hôpital Arnaud-de-Villeneuve, Montpellier (34) - Public - 17.98"
+2025-01-24 11:17:30,Je veux accoucher à Toulouse,Toulouse,aucune correspondance,Accouchements à risques,"Voici les 2 meilleurs hôpitaux pour la spécialité Accouchements à risques dans un rayon de 200km autour de Toulouse:<br> 
+CHU - Hôpitaux mère-enfants, Toulouse (31) - Public - 18.52
+CHU - Hôpital Arnaud-de-Villeneuve, Montpellier (34) - Public - 17.98"
+2025-01-24 11:17:30,Je veux accoucher à Toulouse,Toulouse,aucune correspondance,Accouchements à risques,"Voici les 2 meilleurs hôpitaux pour la spécialité Accouchements à risques dans un rayon de 200km autour de Toulouse:<br> 
+CHU - Hôpitaux mère-enfants, Toulouse (31) - Public - 18.52
+CHU - Hôpital Arnaud-de-Villeneuve, Montpellier (34) - Public - 17.98"
+2025-01-24 11:19:39,J'ai mal au pied à Paris,Paris,aucune correspondance,Chirurgie du pied,"Voici les 3 meilleurs hôpitaux pour la spécialité: Chirurgie du pied dans un rayon de 50km autour de Paris:
+<br>Hôpital de la Croix-Saint-Simon, Paris (75) - Public - 19.22
+<br>Hôpital Ambroise-Paré, Boulogne-Billancourt (92) - Public - 18.87
+<br>Clinique Victor-Hugo, Paris (75) - Privé - 18.74"
+2025-01-24 11:22:33,Je veux une prothèse à Lille,Lille,aucune correspondance,Prothèse de hanche,"Voici les 3 meilleurs hôpitaux pour la spécialité: Prothèse de hanche dans un rayon de 50km autour de Lille:
+<br>Clinique du Croisé-Laroche, Marcq-en-Barœul (59) - Privé - 18.74
+<br>CHU - Hôpital Roger-Salengro, Lille (59) - Public - 18.71
+<br>CH, Valenciennes (59) - Public - 17.36"
+2025-01-24 11:25:19,J'ai mal au genou à Paris,Paris,aucune correspondance,Ligaments du genou,"Voici les 3 meilleurs hôpitaux pour la spécialité: Ligaments du genou dans un rayon de 50km autour de Paris:
+<br>Clinique du sport, Paris (75) - Privé - 17.96
+<br>Clinique Maussins-Nollet, Paris (75) - Privé - 17.92
+<br>CH, Versailles (78) - Public - 17.76"
+2025-01-24 11:51:47,Je veux faire la spécialité: Cancer de la thyroide à Cannes,Cannes,aucune correspondance,Cancer de la thyroïde,"Voici les 3 meilleurs hôpitaux pour la spécialité: Cancer de la thyroïde dans un rayon de 200km autour de Cannes:
+<br>Hôpital de la Conception, Marseille (13) - Public - 18.59
+<br>Clinique Saint-George, Nice (06) - Privé - 18.22
+<br>Institut universitaire de la face et du cou, Nice (Alpes-Maritimes) - Public - 18.19"
+2025-01-24 11:51:47,Je veux faire la spécialité: Cancer de la thyroide à Cannes,Cannes,aucune correspondance,Cancer de la thyroïde,"Voici les 3 meilleurs hôpitaux pour la spécialité: Cancer de la thyroïde dans un rayon de 200km autour de Cannes:
+<br>Hôpital de la Conception, Marseille (13) - Public - 18.59
+<br>Clinique Saint-George, Nice (06) - Privé - 18.22
+<br>Institut universitaire de la face et du cou, Nice (Alpes-Maritimes) - Public - 18.19"
+2025-01-24 11:52:45,Je veux faire un accouchement normal à Cannes,Cannes,aucune correspondance,Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements normaux dans un rayon de 200km autour de Cannes:
+<br>Hôpital de la Conception, Marseille (13) - Public - 18.59
+<br>Clinique Saint-George, Nice (06) - Privé - 18.22
+<br>Institut universitaire de la face et du cou, Nice (Alpes-Maritimes) - Public - 18.19"
+2025-01-24 11:52:45,Je veux faire un accouchement normal à Cannes,Cannes,aucune correspondance,Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements normaux dans un rayon de 200km autour de Cannes:
+<br>Hôpital de la Conception, Marseille (13) - Public - 18.59
+<br>Clinique Saint-George, Nice (06) - Privé - 18.22
+<br>Institut universitaire de la face et du cou, Nice (Alpes-Maritimes) - Public - 18.19"
+2025-01-24 11:58:46,Je veux faire un accouchement normal à Cannes,Cannes,aucune correspondance,Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements normaux dans un rayon de 200km autour de Cannes:
+<br>Hôpital Saint-Joseph, Marseille (13) - Public - 18.71
+<br>CH, Grasse (06) - Public - 17.95
+<br>Hôpital privé Beauregard, Marseille (13) - Public - 17.93"
+2025-01-24 11:58:46,Je veux faire un accouchement normal à Cannes,Cannes,aucune correspondance,Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements normaux dans un rayon de 200km autour de Cannes:
+<br>Hôpital Saint-Joseph, Marseille (13) - Public - 18.71
+<br>CH, Grasse (06) - Public - 17.95
+<br>Hôpital privé Beauregard, Marseille (13) - Public - 17.93"
+2025-01-24 12:06:25,je veux soigner mon audition à Lille,Lille,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lille:
+<br>Hôpital privé La Louvière, Lille (59) - Privé - 17.95
+<br>Hôpital privé Le Bois, Lille (59) - Privé - 17.56
+<br>Polyclinique du Parc, Saint-Saulve (59) - Privé - 17.41"
+2025-01-24 12:14:23,Je veux faire soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-24 12:20:50,Je veux accoucher à Paris,Paris,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Paris:
+<br>Hôpital Cochin, Paris (75) - Public - 18.11
+<br>Hôpital Louis-Mourier, Colombes (92) - Public - 18.1
+<br>CHI, Saint-Germain-en-Laye (78) - Public - 17.91"
+2025-01-24 12:20:55,Je veux accoucher à Paris,Paris,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Paris:
+<br>Hôpital Cochin, Paris (75) - Public - 18.11
+<br>Hôpital Louis-Mourier, Colombes (92) - Public - 18.1
+<br>CHI, Saint-Germain-en-Laye (78) - Public - 17.91"
+2025-01-24 12:21:49,Je veux accoucher à Lille,Lille,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Lille:
+<br>CHU - Hôpital Jeanne-de-Flandre, Lille (59) - Public - 18.71
+<br>CH, Lens (62) - Public - 17.29
+<br>CH, Valenciennes (59) - Public - 17.26"
+2025-01-24 12:21:55,Je veux accoucher à Lille,Lille,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Lille:
+<br>CHU - Hôpital Jeanne-de-Flandre, Lille (59) - Public - 18.71
+<br>CH, Lens (62) - Public - 17.29
+<br>CH, Valenciennes (59) - Public - 17.26"
+2025-01-24 12:22:04,Je veux accoucher à Lille,Lille,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Lille:
+<br>CHU - Hôpital Jeanne-de-Flandre, Lille (59) - Public - 18.71
+<br>CH, Lens (62) - Public - 17.29
+<br>CH, Valenciennes (59) - Public - 17.26"
+2025-01-24 12:32:59,Je veux accoucher à Lille,Lille,aucune correspondance, Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Accouchements normaux dans un rayon de 50km autour de Lille:
+<br>CH, Roubaix (59) - Public - 18.08
+<br>GH, Seclin (59) - Public - 17.95
+<br>Hôpital Saint-Vincent-de-Paul (GHICL), Lille (59) - Public - 17.68"
+2025-01-24 12:37:07,Je souhaite me faire opérer du genou à Paris,Paris,aucune correspondance, Prothèse de genou,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Prothèse de genou dans un rayon de 50km autour de Paris:
+<br>Hôpital de la Croix-Saint-Simon, Paris (75) - Public - 19.24
+<br>Clinique Arago, Paris (75) - Privé - 18.91
+<br>Institut mutualiste Montsouris, Paris (75) - Public - 18.15"
+2025-01-24 12:37:13,Je souhaite me faire opérer du genou à Paris,Paris,aucune correspondance, Prothèse de genou,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Prothèse de genou dans un rayon de 50km autour de Paris:
+<br>Hôpital de la Croix-Saint-Simon, Paris (75) - Public - 19.24
+<br>Clinique Arago, Paris (75) - Privé - 18.91
+<br>Institut mutualiste Montsouris, Paris (75) - Public - 18.15"
+2025-01-24 12:38:29,J'ai mal aux ligaments à Paris,Paris,aucune correspondance,Ligaments du genou,"Voici les 3 meilleurs hôpitaux pour la spécialité: Ligaments du genou dans un rayon de 50km autour de Paris:
+<br>Clinique du sport, Paris (75) - Privé - 17.96
+<br>Clinique Maussins-Nollet, Paris (75) - Privé - 17.92
+<br>CH, Versailles (78) - Public - 17.76"
+2025-01-24 12:38:35,J'ai mal aux ligaments à Paris,Paris,aucune correspondance,Ligaments du genou,"Voici les 3 meilleurs hôpitaux pour la spécialité: Ligaments du genou dans un rayon de 50km autour de Paris:
+<br>Clinique du sport, Paris (75) - Privé - 17.96
+<br>Clinique Maussins-Nollet, Paris (75) - Privé - 17.92
+<br>CH, Versailles (78) - Public - 17.76"
+2025-01-24 12:41:51,J'ai un cancer à Lille,Lille,aucune correspondance, Cancer de la thyroïde,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Cancer de la thyroïde dans un rayon de 200km autour de Lille:
+<br>CHU - Hôpital Claude-Huriez, Lille (59) - Public - 18.55
+<br>Institut Jean-Godinot (CLCC), Reims (51) - Public - 17.26
+<br>Clinique Mathilde, Rouen (76) - Privé - 16.88"
+2025-01-24 12:41:51,J'ai un cancer à Lille,Lille,aucune correspondance, Cancer de la thyroïde,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Cancer de la thyroïde dans un rayon de 200km autour de Lille:
+<br>CHU - Hôpital Claude-Huriez, Lille (59) - Public - 18.55
+<br>Institut Jean-Godinot (CLCC), Reims (51) - Public - 17.26
+<br>Clinique Mathilde, Rouen (76) - Privé - 16.88"
+2025-01-24 12:46:27,Je veux accoucher à Paris,Paris,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Paris:
+<br>Hôpital Cochin, Paris (75) - Public - 18.11
+<br>Hôpital Louis-Mourier, Colombes (92) - Public - 18.1
+<br>CHI, Saint-Germain-en-Laye (78) - Public - 17.91"
+2025-01-24 12:47:01,Je veux accoucher à Lille,Lille,aucune correspondance,"plusieurs correspondances: Accouchements à risques, Accouchements normaux.","Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Lille:
+<br>CHU - Hôpital Jeanne-de-Flandre, Lille (59) - Public - 18.71
+<br>CH, Lens (62) - Public - 17.29
+<br>CH, Valenciennes (59) - Public - 17.26"
+2025-01-24 12:50:47,Je veux accoucher à Lille,Lille,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Lille:
+<br>CHU - Hôpital Jeanne-de-Flandre, Lille (59) - Public - 18.71
+<br>CH, Lens (62) - Public - 17.29
+<br>CH, Valenciennes (59) - Public - 17.26"
+2025-01-24 12:52:13,Je souhaite soigner mes ligaments à Pau,Pau,aucune correspondance,Ligaments du genou,"Voici les 3 meilleurs hôpitaux pour la spécialité: Ligaments du genou dans un rayon de 200km autour de Pau:
+<br>CHU - Hôpital Purpan, Toulouse (31) - Public - 18.6
+<br>Clinique du sport, Mérignac (33) - Privé - 18.12
+<br>Médipôle Garonne, Toulouse (31) - Privé - 17.96"
+2025-01-24 12:52:14,Je souhaite soigner mes ligaments à Pau,Pau,aucune correspondance,Ligaments du genou,"Voici les 3 meilleurs hôpitaux pour la spécialité: Ligaments du genou dans un rayon de 200km autour de Pau:
+<br>CHU - Hôpital Purpan, Toulouse (31) - Public - 18.6
+<br>Clinique du sport, Mérignac (33) - Privé - 18.12
+<br>Médipôle Garonne, Toulouse (31) - Privé - 17.96"
+2025-01-24 13:08:30,Je veux accoucher à Paris,Paris,aucune correspondance, Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Accouchements normaux dans un rayon de 50km autour de Paris:
+<br>Hôpital Paris Saint-Joseph, Paris (75) - Public - 18.7
+<br>CH, Versailles (78) - Public - 18.31
+<br>Hôpital privé d’Antony, Antony (92) - Public - 18.18"
+2025-01-24 13:08:52,Je veux accoucher à Lille,Lille,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Accouchements normaux dans un rayon de 50km autour de Lille:
+<br>CH, Roubaix (59) - Public - 18.08
+<br>GH, Seclin (59) - Public - 17.95
+<br>Hôpital Saint-Vincent-de-Paul (GHICL), Lille (59) - Public - 17.68"
+2025-01-24 13:08:57,Je veux accoucher à Lille,Lille,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Lille:
+<br>CHU - Hôpital Jeanne-de-Flandre, Lille (59) - Public - 18.71
+<br>CH, Lens (62) - Public - 17.29
+<br>CH, Valenciennes (59) - Public - 17.26"
+2025-01-24 13:11:31,Je  veux soigner mon cancer à Paris,Paris,aucune correspondance, Cancer ORL,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Cancer ORL dans un rayon de 50km autour de Paris:
+<br>Gustave-Roussy (CLCC), Villejuif (94) - Public - 18.98
+<br>Hôpital Tenon, Paris (75) - Public - 18.32
+<br>Institut Curie (CLCC), Paris (75) - Public - 18.26"
+2025-01-24 13:11:45,Je  veux soigner mon cancer à Paris,Paris,aucune correspondance, Cancer de l'utérus,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Cancer de l'utérus dans un rayon de 50km autour de Paris:
+<br>Clinique Geoffroy-Saint-Hilaire, Paris (75) - Privé - 18.57
+<br>Institut Curie (CLCC), Paris (75) - Public - 18.46
+<br>Gustave-Roussy (CLCC), Villejuif (94) - Public - 18.42"
+2025-01-24 13:12:54,j'ai un cancer à Lyon,Lyon,aucune correspondance, Cancer du colon ou de l'intestin,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Cancer du colon ou de l'intestin dans un rayon de 50km autour de Lyon:
+<br>CH Lyon-Sud, Pierre-Bénite (69) - Public - 18.04
+<br>Infirmerie protestante de Lyon, Caluire-et-Cuire (69) - Privé - 17.96
+<br>Hôpital privé Jean-Mermoz, Lyon (69) - Privé - 16.81"
+2025-01-24 13:13:30,j'ai un cancer à lille,Lille,aucune correspondance,"plusieurs correspondances: Cancer de l'estomac et de l'œsophage, Cancer de l'ovaire, Cancer de l'utérus, Cancer de la prostate, Cancer de la thyroïde, Cancer de la vessie, Cancer du colon ou de l'intestin, Cancer du foie, Cancer du pancréas, Cancer du poumon, Cancer du rein, Cancer du sein, Cancer ORL, Cancers de la peau.","Voici les 3 meilleurs hôpitaux pour la spécialité:  Cancer du colon ou de l'intestin dans un rayon de 200km autour de Lille:
+<br>CHU - Hôpital Claude-Huriez, Lille (59) - Public - 18.09
+<br>Hôpital privé Le Bois, Lille (59) - Privé - 17.86
+<br>CHU - Hôpital Robert-Debré, Reims (51) - Public - 17.71"
+2025-01-24 13:13:30,j'ai un cancer à lille,Lille,aucune correspondance,"plusieurs correspondances: Cancer de l'estomac et de l'œsophage, Cancer de l'ovaire, Cancer de l'utérus, Cancer de la prostate, Cancer de la thyroïde, Cancer de la vessie, Cancer du colon ou de l'intestin, Cancer du foie, Cancer du pancréas, Cancer du poumon, Cancer du rein, Cancer du sein, Cancer ORL, Cancers de la peau.","Voici les 3 meilleurs hôpitaux pour la spécialité:  Cancer du colon ou de l'intestin dans un rayon de 200km autour de Lille:
+<br>CHU - Hôpital Claude-Huriez, Lille (59) - Public - 18.09
+<br>Hôpital privé Le Bois, Lille (59) - Privé - 17.86
+<br>CHU - Hôpital Robert-Debré, Reims (51) - Public - 17.71"
+2025-01-24 13:14:16,j'ai un cancer à lille,lille,aucune correspondance, Cancer du poumon,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Cancer du poumon dans un rayon de 100km autour de lille:
+<br>CHU - Institut cœur-poumon, Lille (59) - Public - 17.2
+<br>Clinique Victor-Pauchet, Amiens (80) - Privé - 17.13
+<br>Hôpital privé Arras-Les Bonnettes, Arras (62) - Privé - 17.08"
+2025-01-24 13:14:16,j'ai un cancer à lille,lille,aucune correspondance, Cancer du poumon,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Cancer du poumon dans un rayon de 100km autour de lille:
+<br>CHU - Institut cœur-poumon, Lille (59) - Public - 17.2
+<br>Clinique Victor-Pauchet, Amiens (80) - Privé - 17.13
+<br>Hôpital privé Arras-Les Bonnettes, Arras (62) - Privé - 17.08"
+2025-01-24 13:17:10,je veux accoucher à paris,Paris,aucune correspondance, Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Accouchements normaux dans un rayon de 50km autour de Paris:
+<br>Hôpital Paris Saint-Joseph, Paris (75) - Public - 18.7
+<br>CH, Versailles (78) - Public - 18.31
+<br>Hôpital privé d’Antony, Antony (92) - Public - 18.18"
+2025-01-24 13:22:51,Je veux soigner mon audition à Cannes,Cannes,aucune correspondance,Audition,"Voici les 2 meilleurs hôpitaux pour la spécialité Audition dans un rayon de 200km autour de Cannes:<br> 
+Hôpital privé Clairval, Marseille (13) - Privé - 17.81
+Hôpital Nord, Marseille (13) - Public - 17.46"
+2025-01-24 13:22:51,Je veux soigner mon audition à Cannes,Cannes,aucune correspondance,Audition,"Voici les 2 meilleurs hôpitaux pour la spécialité Audition dans un rayon de 200km autour de Cannes:<br> 
+Hôpital privé Clairval, Marseille (13) - Privé - 17.81
+Hôpital Nord, Marseille (13) - Public - 17.46"
+2025-01-24 13:23:13,Je veux soigner mon glocaume à Cannes,Cannes,aucune correspondance,Glaucome,"Voici les 2 meilleurs hôpitaux pour la spécialité Glaucome dans un rayon de 200km autour de Cannes:<br> 
+Hôpital privé Clairval, Marseille (13) - Privé - 17.81
+Hôpital Nord, Marseille (13) - Public - 17.46"
+2025-01-24 13:23:13,Je veux soigner mon glocaume à Cannes,Cannes,aucune correspondance,Glaucome,"Voici les 2 meilleurs hôpitaux pour la spécialité Glaucome dans un rayon de 200km autour de Cannes:<br> 
+Hôpital privé Clairval, Marseille (13) - Privé - 17.81
+Hôpital Nord, Marseille (13) - Public - 17.46"
+2025-01-24 13:23:37,Je veux soigner mon AVC à Paris,Paris,aucune correspondance,"plusieurs correspondances: Accidents vasculaires cérébraux, Médecine vasculaire.","Voici les 3 meilleurs hôpitaux pour la spécialité: plusieurs correspondances: Accidents vasculaires cérébraux, Médecine vasculaire. dans un rayon de 50km autour de Paris:
+<br>CH national d’ophtalmologie des Quinze-Vingts, Paris (75) - Public - 19.0
+<br>Hôpital Paris Saint-Joseph, Paris (75) - Public - 18.96
+<br>Fondation Rothschild, Paris (75) - Public - 18.92"
+2025-01-24 13:26:08,je veux accoucher à paris,Paris,aucune correspondance, Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Accouchements normaux dans un rayon de 50km autour de Paris:
+<br>Hôpital Paris Saint-Joseph, Paris (75) - Public - 18.7
+<br>CH, Versailles (78) - Public - 18.31
+<br>Hôpital privé d’Antony, Antony (92) - Public - 18.18"
+2025-01-24 13:36:18,je veux accoucher à paris,Paris,aucune correspondance, Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Accouchements normaux dans un rayon de 50km autour de Paris:
+<br>Hôpital Paris Saint-Joseph, Paris (75) - Public - 18.7
+<br>CH, Versailles (78) - Public - 18.31
+<br>Hôpital privé d’Antony, Antony (92) - Public - 18.18"
+2025-01-24 13:52:55,Je veux accoucher à Lille,Lille,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Lille:
+<br>CHU - Hôpital Jeanne-de-Flandre, Lille (59) - Public - 18.71
+<br>CH, Lens (62) - Public - 17.29
+<br>CH, Valenciennes (59) - Public - 17.26"
+2025-01-24 13:53:32,Je veux accoucher à Lille,Lille,aucune correspondance, Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Accouchements normaux dans un rayon de 50km autour de Lille:
+<br>CH, Roubaix (59) - Public - 18.08
+<br>GH, Seclin (59) - Public - 17.95
+<br>Hôpital Saint-Vincent-de-Paul (GHICL), Lille (59) - Public - 17.68"
+2025-01-24 14:05:01,J'ai un cancer à Paris,Paris,aucune correspondance, Cancer du foie,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Cancer du foie dans un rayon de 50km autour de Paris:
+<br>Hôpital Paul-Brousse, Villejuif (94) - Public - 18.7
+<br>Hôpital Beaujon, Clichy (92) - Public - 18.38
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 17.8"
+2025-01-24 14:06:22,J'ai un cancer à Paris,Paris,aucune correspondance, Cancer du foie,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Cancer du foie dans un rayon de 50km autour de Paris:
+<br>Hôpital Paul-Brousse, Villejuif (94) - Public - 18.7
+<br>Hôpital Beaujon, Clichy (92) - Public - 18.38
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 17.8"
+2025-01-24 14:09:32,j'ai un cancer à Paris,Paris,aucune correspondance, Cancer du foie,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Cancer du foie dans un rayon de 50km autour de Paris:
+<br>Hôpital Paul-Brousse, Villejuif (94) - Public - 18.7
+<br>Hôpital Beaujon, Clichy (92) - Public - 18.38
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 17.8"
+2025-01-24 14:10:06,je veux accoucher à Lille,Lille,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Lille:
+<br>CHU - Hôpital Jeanne-de-Flandre, Lille (59) - Public - 18.71
+<br>CH, Lens (62) - Public - 17.29
+<br>CH, Valenciennes (59) - Public - 17.26"
+2025-01-24 14:11:42,J'ai mal aux ligaments à Paris,Paris,aucune correspondance,Ligaments du genou,"Voici les 3 meilleurs hôpitaux pour la spécialité: Ligaments du genou dans un rayon de 50km autour de Paris:
+<br>Clinique du sport, Paris (75) - Privé - 17.96
+<br>Clinique Maussins-Nollet, Paris (75) - Privé - 17.92
+<br>CH, Versailles (78) - Public - 17.76"
+2025-01-24 14:12:11,Je veux opérer mon genou à Paris,Paris,aucune correspondance,Prothèse de genou,"Voici les 3 meilleurs hôpitaux pour la spécialité: Prothèse de genou dans un rayon de 50km autour de Paris:
+<br>Hôpital de la Croix-Saint-Simon, Paris (75) - Public - 19.24
+<br>Clinique Arago, Paris (75) - Privé - 18.91
+<br>Institut mutualiste Montsouris, Paris (75) - Public - 18.15"
+2025-01-24 14:19:35,J'ai mal au genou à Paris,Paris,aucune correspondance,Ligaments du genou,"Voici les 3 meilleurs hôpitaux pour la spécialité: Ligaments du genou dans un rayon de 50km autour de Paris:
+<br>Clinique du sport, Paris (75) - Privé - 17.96
+<br>Clinique Maussins-Nollet, Paris (75) - Privé - 17.92
+<br>CH, Versailles (78) - Public - 17.76"
+2025-01-24 14:20:09,J'ai mal au genou à Lyon,Lyon,aucune correspondance,Ligaments du genou,"Voici les 3 meilleurs hôpitaux pour la spécialité: Ligaments du genou dans un rayon de 50km autour de Lyon:
+<br>Clinique mutualiste, Saint-Etienne (42) - Public - 18.55
+<br>Hôpitaux Nord (Croix-Rousse), Lyon (69) - Public - 18.45
+<br>CHU - Hôpital Nord, Saint-Etienne (42) - Public - 18.31"
+2025-01-24 14:21:07,Je veux soigner mon genou à Paris,Paris,aucune correspondance, Prothèse de genou,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Prothèse de genou dans un rayon de 50km autour de Paris:
+<br>Hôpital de la Croix-Saint-Simon, Paris (75) - Public - 19.24
+<br>Clinique Arago, Paris (75) - Privé - 18.91
+<br>Institut mutualiste Montsouris, Paris (75) - Public - 18.15"
+2025-01-24 14:23:17,Je veux soigner mon genou à Paris,Paris,aucune correspondance, Prothèse de genou,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Prothèse de genou dans un rayon de 50km autour de Paris:
+<br>Hôpital de la Croix-Saint-Simon, Paris (75) - Public - 19.24
+<br>Clinique Arago, Paris (75) - Privé - 18.91
+<br>Institut mutualiste Montsouris, Paris (75) - Public - 18.15"
+2025-01-24 14:23:40,je veux opérer mon oeil à lille,Lille,aucune correspondance,Chirurgie de la cornée,"Voici les 3 meilleurs hôpitaux pour la spécialité: Chirurgie de la cornée dans un rayon de 200km autour de Lille:
+<br>Institut ophtalmique, Somain (59) - Privé - 17.5
+<br>CHU - Hôpital Robert-Debré, Reims (51) - Public - 17.2
+<br>CHU - Hôpital Claude-Huriez, Lille (59) - Public - 17.16"
+2025-01-24 14:23:40,je veux opérer mon oeil à lille,Lille,aucune correspondance,Chirurgie de la cornée,"Voici les 3 meilleurs hôpitaux pour la spécialité: Chirurgie de la cornée dans un rayon de 200km autour de Lille:
+<br>Institut ophtalmique, Somain (59) - Privé - 17.5
+<br>CHU - Hôpital Robert-Debré, Reims (51) - Public - 17.2
+<br>CHU - Hôpital Claude-Huriez, Lille (59) - Public - 17.16"
+2025-01-24 14:25:58,Je veux accoucher à Paris,Paris,aucune correspondance, Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Accouchements normaux dans un rayon de 50km autour de Paris:
+<br>Hôpital Paris Saint-Joseph, Paris (75) - Public - 18.7
+<br>CH, Versailles (78) - Public - 18.31
+<br>Hôpital privé d’Antony, Antony (92) - Public - 18.18"
+2025-01-24 14:27:02,J'ai un cancer à Lyon,Lyon,aucune correspondance, Cancers de la peau,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Cancers de la peau dans un rayon de 50km autour de Lyon:
+<br>CH Lyon-Sud, Pierre-Bénite (69) - Public - 19.11
+<br>Centre Léon-Bérard (CLCC), Lyon (69) - Public - 16.83
+<br>CHU - Hôpital Nord, Saint-Etienne (42) - Public - 16.69"
+2025-01-24 14:28:46,j'ai mal à la prostate à Paris,Paris,aucune correspondance,Adénome de la prostate,"Voici les 3 meilleurs hôpitaux pour la spécialité: Adénome de la prostate dans un rayon de 50km autour de Paris:
+<br>Hôpital Paris Saint-Joseph, Paris (75) - Public - 19.2
+<br>Institut mutualiste Montsouris, Paris (75) - Public - 19.18
+<br>Hôpital Foch, Suresnes (92) - Public - 19.13"
+2025-01-24 14:31:03,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-24 14:31:37,Je veux soigner ma hanche à Paris,Paris,aucune correspondance,Prothèse de hanche,"Voici les 3 meilleurs hôpitaux pour la spécialité: Prothèse de hanche dans un rayon de 50km autour de Paris:
+<br>Hôpital de la Croix-Saint-Simon, Paris (75) - Public - 19.45
+<br>Clinique Arago, Paris (75) - Privé - 18.85
+<br>Hôpital Cochin, Paris (75) - Public - 18.54"
+2025-01-24 14:32:06,Je veux faire de la chirurgie de la hanche à Paris,Paris,aucune correspondance, Chirurgie de la hanche,"Voici les 3 meilleurs hôpitaux pour la spécialité: Prothèse de hanche dans un rayon de 50km autour de Paris:
+<br>Hôpital de la Croix-Saint-Simon, Paris (75) - Public - 19.45
+<br>Clinique Arago, Paris (75) - Privé - 18.85
+<br>Hôpital Cochin, Paris (75) - Public - 18.54"
+2025-01-24 15:13:06,Quels sont les trois meilleurs hôpitaux pour soigner un cancer de sein vers Paris selon Le Point?,Paris,aucune correspondance,Cancer du sein,"Voici les 3 meilleurs hôpitaux pour la spécialité: Cancer du sein dans un rayon de 50km autour de Paris:
+<br>Institut Curie (CLCC), Paris (75) - Public - 19.19
+<br>Institut Curie (CLCC), Saint-Cloud (92) - Public - 19.04
+<br>Gustave-Roussy (CLCC), Villejuif (94) - Public - 18.66"
+2025-01-24 15:35:59,je veux faire soigner mon audition à Lille,Lille,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lille:
+<br>Hôpital privé La Louvière, Lille (59) - Privé - 17.95
+<br>Hôpital privé Le Bois, Lille (59) - Privé - 17.56
+<br>Polyclinique du Parc, Saint-Saulve (59) - Privé - 17.41"
+2025-01-24 15:38:29,je veux faire soigner mon audition à Lille,Lille,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lille:
+<br>Hôpital privé La Louvière, Lille (59) - Privé - 17.95
+<br>Hôpital privé Le Bois, Lille (59) - Privé - 17.56
+<br>Polyclinique du Parc, Saint-Saulve (59) - Privé - 17.41"
+2025-01-24 15:40:31,je veux faire soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-24 15:48:26,Je veux soigner mon glocaume à Paris,Paris,aucune correspondance,Glaucome,"Voici les 3 meilleurs hôpitaux pour la spécialité: Glaucome dans un rayon de 50km autour de Paris:
+<br>CH national d’ophtalmologie des Quinze-Vingts, Paris (75) - Public - 19.0
+<br>Hôpital Paris Saint-Joseph, Paris (75) - Public - 18.96
+<br>Fondation Rothschild, Paris (75) - Public - 18.92"
+2025-01-24 15:52:04,je veux soigner mon audition à Lille,Lille,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lille:
+<br>Hôpital privé La Louvière, Lille (59) - Privé - 17.95
+<br>Hôpital privé Le Bois, Lille (59) - Privé - 17.56
+<br>Polyclinique du Parc, Saint-Saulve (59) - Privé - 17.41"
+2025-01-24 15:54:41,je veux soigner ma cataracte à lille,Lille,aucune correspondance,Cataracte,"Voici les 3 meilleurs hôpitaux pour la spécialité: Cataracte dans un rayon de 50km autour de Lille:
+<br>Institut ophtalmique, Somain (59) - Privé - 18.83
+<br>Clinique Ambroise-Paré, Lille (59) - Privé - 18.64
+<br>CH, Lens (62) - Public - 18.49"
+2025-01-24 16:33:57,Je veux accoucher à Paris,Paris,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Paris:
+<br>Hôpital Cochin, Paris (75) - Public - 18.11
+<br>Hôpital Louis-Mourier, Colombes (92) - Public - 18.1
+<br>CHI, Saint-Germain-en-Laye (78) - Public - 17.91"
+2025-01-24 16:38:48,Je veux accoucher à Paris,Paris,aucune correspondance, Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Paris:
+<br>Hôpital Cochin, Paris (75) - Public - 18.11
+<br>Hôpital Louis-Mourier, Colombes (92) - Public - 18.1
+<br>CHI, Saint-Germain-en-Laye (78) - Public - 17.91"
+2025-01-24 16:38:53,Je veux accoucher à Paris,Paris,aucune correspondance, Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Accouchements normaux dans un rayon de 50km autour de Paris:
+<br>Hôpital Paris Saint-Joseph, Paris (75) - Public - 18.7
+<br>CH, Versailles (78) - Public - 18.31
+<br>Hôpital privé d’Antony, Antony (92) - Public - 18.18"
+2025-01-24 16:40:34,Je veux accoucher à Paris,Paris,aucune correspondance, Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Accouchements normaux dans un rayon de 50km autour de Paris:
+<br>Hôpital Paris Saint-Joseph, Paris (75) - Public - 18.7
+<br>CH, Versailles (78) - Public - 18.31
+<br>Hôpital privé d’Antony, Antony (92) - Public - 18.18"
+2025-01-24 16:51:40,Je veux accoucher à Paris,Paris,aucune correspondance, Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Accouchements normaux dans un rayon de 50km autour de Paris:
+<br>Hôpital Paris Saint-Joseph, Paris (75) - Public - 18.7
+<br>CH, Versailles (78) - Public - 18.31
+<br>Hôpital privé d’Antony, Antony (92) - Public - 18.18"
+2025-01-24 16:54:40,Je veux accoucher à Lyon,Lyon,aucune correspondance, Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Accouchements normaux dans un rayon de 50km autour de Lyon:
+<br>Clinique du Val-d’Ouest Vendôme, Ecully (69) - Public - 18.7
+<br>CH, Villefranche-sur-Saône (69) - Public - 17.95
+<br>CH Saint-Joseph-Saint-Luc, Lyon (69) - Public - 17.58"
+2025-01-24 16:59:42,J'ai mal au genou à Paris,Paris,aucune correspondance,Ligaments du genou,"Voici les 3 meilleurs hôpitaux pour la spécialité: Ligaments du genou dans un rayon de 50km autour de Paris:
+<br>Clinique du sport, Paris (75) - Privé - 17.96
+<br>Clinique Maussins-Nollet, Paris (75) - Privé - 17.92
+<br>CH, Versailles (78) - Public - 17.76"
+2025-01-24 17:03:36,J'ai mal au genou à Madrid,Madrid,aucune correspondance, Prothèse de genou,"Voici les 0 meilleurs hôpitaux pour la spécialité Ligaments du genou dans un rayon de 200km autour de Madrid:<br> 
+"
+2025-01-24 17:03:36,J'ai mal au genou à Madrid,Madrid,aucune correspondance, Prothèse de genou,"Voici les 0 meilleurs hôpitaux pour la spécialité Ligaments du genou dans un rayon de 200km autour de Madrid:<br> 
+"
+2025-01-24 17:03:46,J'ai mal au genou à Madrid,Madrid,aucune correspondance, Prothèse de genou,"Voici les 0 meilleurs hôpitaux pour la spécialité  Prothèse de genou dans un rayon de 200km autour de Madrid:<br> 
+"
+2025-01-24 17:03:46,J'ai mal au genou à Madrid,Madrid,aucune correspondance, Prothèse de genou,"Voici les 0 meilleurs hôpitaux pour la spécialité  Prothèse de genou dans un rayon de 200km autour de Madrid:<br> 
+"
+2025-01-24 17:12:52,Je veux soigner mon audition à Lille,Lille,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lille:
+<br>Hôpital privé La Louvière, Lille (59) - Privé - 17.95
+<br>Hôpital privé Le Bois, Lille (59) - Privé - 17.56
+<br>Polyclinique du Parc, Saint-Saulve (59) - Privé - 17.41"
+2025-01-27 10:05:56,Je veux accoucher à Lyon,Lyon,aucune correspondance, Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Accouchements normaux dans un rayon de 50km autour de Lyon:
+<br>Clinique du Val-d’Ouest Vendôme, Ecully (69) - Public - 18.7
+<br>CH, Villefranche-sur-Saône (69) - Public - 17.95
+<br>CH Saint-Joseph-Saint-Luc, Lyon (69) - Public - 17.58"
+2025-01-27 10:31:18,Je veux accoucher à Lyon,Lyon,aucune correspondance, Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité:  Accouchements normaux dans un rayon de 50km autour de Lyon:
+<br>Clinique du Val-d’Ouest Vendôme, Ecully (69) - Public - 18.7
+<br>CH, Villefranche-sur-Saône (69) - Public - 17.95
+<br>CH Saint-Joseph-Saint-Luc, Lyon (69) - Public - 17.58"
+2025-01-27 11:32:39,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-27 13:29:42,Quels sont les meilleurs hôpitaux privés pour faire soigner ma cataracte à Paris,Paris,Privé,Cataracte,"Voici les 3 meilleurs hôpitaux pour la spécialité: Cataracte dans un rayon de 50km autour de Paris:
+<br>Clinique Geoffroy-Saint-Hilaire, Paris (75) - Privé - 19.01
+<br>Clinique Jouvenet, Paris (75) - Privé - 17.61
+<br>CMC Pierre-Cherest, Neuilly-sur-Seine (92) - Privé - 17.25"
+2025-01-27 13:30:55,Quels sont les meilleurs hôpitaux privés pour faire soigner ma cataracte à Paris,Paris,Privé,Cataracte,"Voici les 3 meilleurs hôpitaux pour la spécialité: Cataracte dans un rayon de 50km autour de Paris:
+<br>Clinique Geoffroy-Saint-Hilaire, Paris (75) - Privé - 19.01
+<br>Clinique Jouvenet, Paris (75) - Privé - 17.61
+<br>CMC Pierre-Cherest, Neuilly-sur-Seine (92) - Privé - 17.25"
+2025-01-27 13:39:57,Quel est le meilleur hôpital pour soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-27 13:41:29,Quel est le meilleur hôpital pour soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité Audition dans un rayon de 200km autour de Paris:<br> 
+Clinique Jean Causse, Colombiers (34) - Privé - 18.52
+Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47"
+2025-01-27 13:41:29,Quel est le meilleur hôpital pour soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité Audition dans un rayon de 200km autour de Paris:<br> 
+Clinique Jean Causse, Colombiers (34) - Privé - 18.52
+Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47"
+2025-01-27 13:44:12,Cataracte Paris,Paris,aucune correspondance,Cataracte,"Voici les 3 meilleurs hôpitaux pour la spécialité Cataracte dans un rayon de 200km autour de Paris:<br> 
+Fondation Rothschild, Paris (75) - Public - 19.31
+CH national d’ophtalmologie des Quinze-Vingts, Paris (75) - Public - 19.18
+Hôpital Cochin, Paris (75) - Public - 19.09"
+2025-01-27 13:44:12,Cataracte Paris,Paris,aucune correspondance,Cataracte,"Voici les 3 meilleurs hôpitaux pour la spécialité Cataracte dans un rayon de 200km autour de Paris:<br> 
+Fondation Rothschild, Paris (75) - Public - 19.31
+CH national d’ophtalmologie des Quinze-Vingts, Paris (75) - Public - 19.18
+Hôpital Cochin, Paris (75) - Public - 19.09"
+2025-01-27 13:46:29,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité Audition dans un rayon de 200km autour de Paris:<br> 
+Clinique Jean Causse, Colombiers (34) - Privé - 18.52
+Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47"
+2025-01-27 13:46:29,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité Audition dans un rayon de 200km autour de Paris:<br> 
+Clinique Jean Causse, Colombiers (34) - Privé - 18.52
+Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47"
+2025-01-27 13:48:04,Je veux soigner ma cataracte à Paris,Paris,aucune correspondance,Cataracte,"Voici les 3 meilleurs hôpitaux pour la spécialité Cataracte dans un rayon de 200km autour de Paris:<br> 
+Fondation Rothschild, Paris (75) - Public - 19.31
+CH national d’ophtalmologie des Quinze-Vingts, Paris (75) - Public - 19.18
+Hôpital Cochin, Paris (75) - Public - 19.09"
+2025-01-27 13:48:04,Je veux soigner ma cataracte à Paris,Paris,aucune correspondance,Cataracte,"Voici les 3 meilleurs hôpitaux pour la spécialité Cataracte dans un rayon de 200km autour de Paris:<br> 
+Fondation Rothschild, Paris (75) - Public - 19.31
+CH national d’ophtalmologie des Quinze-Vingts, Paris (75) - Public - 19.18
+Hôpital Cochin, Paris (75) - Public - 19.09"
+2025-01-27 15:13:11,audition paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-27 15:14:23,audition paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-27 15:14:33,audition paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-27 15:19:39,Je souhaite soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 2 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47"
+2025-01-27 15:26:21,mal au pied Paris,Paris,aucune correspondance,Chirurgie du pied,"Voici les 2 meilleurs hôpitaux pour la spécialité: Chirurgie du pied dans un rayon de 50km autour de Paris:
+<br>Hôpital de la Croix-Saint-Simon, Paris (75) - Public - 19.22
+<br>Hôpital Ambroise-Paré, Boulogne-Billancourt (92) - Public - 18.87"
+2025-01-28 10:08:05,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-28 10:36:39,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 4 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43
+<br>Fondation Rothschild, Paris (75) - Public - 18.21"
+2025-01-28 10:38:31,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-28 10:39:01,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-28 10:43:10,Je veux accoucher à Lyon,Lyon,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Lyon:
+<br>Hôpitaux Nord (Croix-Rousse), Lyon (69) - Public - 17.83
+<br>CHU - Hôpital Nord, Saint-Etienne (42) - Public - 17.75
+<br>HCL - Hôpital Femme-mère-enfant, Bron (69) - Public - 17.55"
+2025-01-28 11:35:15,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 2 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47"
+2025-01-28 11:43:19,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 2 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47"
+2025-01-28 11:51:58,Je veux soigner mon audition à Lyon,Lyon,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lyon:
+<br>CH Lyon-Sud, Pierre-Bénite (69) - Public - 18.39
+<br>CHU - Hôpital Nord, Saint-Etienne (42) - Public - 18.0
+<br>Hôpital Edouard-Herriot, Lyon (69) - Public - 17.61"
+2025-01-28 11:52:01,Je veux soigner mon audition à Lyon,Lyon,aucune correspondance,Audition,"Voici les 1 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lyon:
+<br>CH Lyon-Sud, Pierre-Bénite (69) - Public - 18.39"
+2025-01-28 13:58:28,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 2 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47"
+2025-01-28 13:59:57,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 4 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43
+<br>Fondation Rothschild, Paris (75) - Public - 18.21"
+2025-01-28 15:28:20,Je veux accoucher à Lyon,Lyon,aucune correspondance,Accouchements à risques,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Lyon:
+<br>Hôpitaux Nord (Croix-Rousse), Lyon (69) - Public - 17.83
+<br>CHU - Hôpital Nord, Saint-Etienne (42) - Public - 17.75
+<br>HCL - Hôpital Femme-mère-enfant, Bron (69) - Public - 17.55"
+2025-01-28 15:58:48,Quels sont les meilleurs hôpitaux privés pour faire soigner ma cataracte à Paris,Paris,Privé,Cataracte,"Voici les 3 meilleurs hôpitaux pour la spécialité: Cataracte dans un rayon de 50km autour de Paris:
+<br>Clinique Geoffroy-Saint-Hilaire, Paris (75) - Privé - 19.01
+<br>Clinique Jouvenet, Paris (75) - Privé - 17.61
+<br>CMC Pierre-Cherest, Neuilly-sur-Seine (92) - Privé - 17.25"
+2025-01-28 17:17:15,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 4 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43
+<br>Fondation Rothschild, Paris (75) - Public - 18.21"
+2025-01-28 17:31:28,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 2 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47"
+2025-01-28 17:32:13,Je veux soigner mon audition à Nantes,Nantes,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Nantes:
+<br>Clinique mutualiste Jules-Verne, Nantes (44) - Privé - 17.83
+<br>Santé Atlantique, Saint-Herblain (44) - Privé - 17.75
+<br>CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44) - Public - 17.73"
+2025-01-28 17:32:36,"Je veux soigner mon audition à Nantes
+
+",Nantes,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Nantes:
+<br>Clinique mutualiste Jules-Verne, Nantes (44) - Privé - 17.83
+<br>Santé Atlantique, Saint-Herblain (44) - Privé - 17.75
+<br>CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44) - Public - 17.73"
+2025-01-28 17:41:43,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 1 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51"
+2025-01-28 17:53:31,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-28 17:57:24,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-28 18:35:44,Je veux soigner ma cataracte à Paris,Paris,aucune correspondance,Cataracte,"Voici les 3 meilleurs hôpitaux pour la spécialité: Cataracte dans un rayon de 50km autour de Paris:
+<br>Fondation Rothschild, Paris (75) - Public - 19.31
+<br>CH national d’ophtalmologie des Quinze-Vingts, Paris (75) - Public - 19.18
+<br>Hôpital Cochin, Paris (75) - Public - 19.09"
+2025-01-28 18:36:11,"Je veux soigner ma cataracte à Paris
+
+",Paris,aucune correspondance,Cataracte,"Voici les 3 meilleurs hôpitaux pour la spécialité: Cataracte dans un rayon de 50km autour de Paris:
+<br>Fondation Rothschild, Paris (75) - Public - 19.31
+<br>CH national d’ophtalmologie des Quinze-Vingts, Paris (75) - Public - 19.18
+<br>Hôpital Cochin, Paris (75) - Public - 19.09"
+2025-01-28 18:36:45,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-29 09:52:22,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité Audition:<br> 
+Clinique Jean Causse, Colombiers (34) - Privé - 18.52
+Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47"
+2025-01-29 09:52:22,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité Audition:<br> 
+Clinique Jean Causse, Colombiers (34) - Privé - 18.52
+Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47"
+2025-01-29 09:53:25,Je veux soigner mon audition à Lille,Lille,aucune correspondance,Audition,"Voici les 5 meilleurs hôpitaux pour la spécialité Audition:<br> 
+Clinique Jean Causse, Colombiers (34) - Privé - 18.52
+Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+Institut Arthur-Vernes, Paris (75) - Privé - 18.43
+CH Lyon-Sud, Pierre-Bénite (69) - Public - 18.39"
+2025-01-29 09:53:25,Je veux soigner mon audition à Lille,Lille,aucune correspondance,Audition,"Voici les 5 meilleurs hôpitaux pour la spécialité Audition:<br> 
+Clinique Jean Causse, Colombiers (34) - Privé - 18.52
+Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+Institut Arthur-Vernes, Paris (75) - Privé - 18.43
+CH Lyon-Sud, Pierre-Bénite (69) - Public - 18.39"
+2025-01-29 10:06:29,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>CH intercommunal, Créteil (94) - Public - 16.76
+<br>Fondation Rothschild, Paris (75) - Public - 18.21
+<br>Hôpital Bicêtre, Le Kremlin-Bicêtre (94) - Public - 17.48
+<br>Hôpital Lariboisière, Paris (75) - Public - 16.49
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital Robert-Debré, Paris (75) - Public - 16.71
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-29 10:08:02,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>CH intercommunal, Créteil (94) - Public - 16.76
+<br>Fondation Rothschild, Paris (75) - Public - 18.21
+<br>Hôpital Bicêtre, Le Kremlin-Bicêtre (94) - Public - 17.48
+<br>Hôpital Lariboisière, Paris (75) - Public - 16.49
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital Robert-Debré, Paris (75) - Public - 16.71
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-29 10:28:59,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>CH intercommunal, Créteil (94) - Public - 16.76
+<br>Fondation Rothschild, Paris (75) - Public - 18.21
+<br>Hôpital Bicêtre, Le Kremlin-Bicêtre (94) - Public - 17.48
+<br>Hôpital Lariboisière, Paris (75) - Public - 16.49
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital Robert-Debré, Paris (75) - Public - 16.71
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-01-29 11:22:59,Je veux accoucher à Paris,Paris,aucune correspondance,Accouchements à risques,"Voici les meilleurs hôpitaux pour la spécialité: Accouchements à risques dans un rayon de 50km autour de Paris:
+<br>CH intercommunal, Créteil (94) - Public - 17.5
+<br>CH, Argenteuil (95) - Public - 17.37
+<br>CH, Pontoise (95) - Public - 17.71
+<br>CHI, Saint-Germain-en-Laye (78) - Public - 17.91
+<br>GH, Creil/Senlis (60) - Public - 16.5
+<br>Grand Hôpital de l'Est Francilien Marne-la-Vallée, Meaux (77) - Public - 16.92
+<br>Hôpital Antoine-Béclère, Clamart (92) - Public - 17.16
+<br>Hôpital Bicêtre, Le Kremlin-Bicêtre (94) - Public - 17.31
+<br>Hôpital Cochin, Paris (75) - Public - 18.11
+<br>Hôpital Louis-Mourier, Colombes (92) - Public - 18.1
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 17.51
+<br>Hôpital Robert-Debré, Paris (75) - Public - 17.64
+<br>Hôpital Trousseau, Paris (75) - Public - 17.63"
+2025-01-29 11:26:55,Je veux accoucher à Paris,Paris,aucune correspondance,Accouchements normaux,"Voici les meilleurs hôpitaux pour la spécialité: Accouchements normaux dans un rayon de 50km autour de Paris:
+<br>CH intercommunal, Villeneuve-Saint-Georges (94) - Public - 17.8
+<br>CH, Mantes-la-Jolie (78) - Public - 17.45
+<br>CH, Rambouillet (78) - Public - 17.74
+<br>CH, Saint-Cloud (92) - Public - 16.91
+<br>CH, Versailles (78) - Public - 18.31
+<br>CHI, Eaubonne-Montmorency (95) - Public - 18.0
+<br>Clinique Claude-Bernard, Ermont (95) - Public - 16.91
+<br>GH, Beaumont-sur-Oise (95) - Public - 16.38
+<br>GH, Melun (77) - Public - 17.64
+<br>Grand Hôpital de l'Est Francilien Marne-la-Vallée, Jossigny (77) - Public - 18.04
+<br>Hôpital Beaujon, Clichy (92) - Public - 17.35
+<br>Hôpital Bichat, Paris (75) - Public - 16.77
+<br>Hôpital Jean-Verdier, Bondy (93) - Public - 16.44
+<br>Hôpital Lariboisière, Paris (75) - Public - 17.48
+<br>Hôpital Paris Saint-Joseph, Paris (75) - Public - 18.7
+<br>Hôpital Tenon, Paris (75) - Public - 17.15
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 17.39
+<br>Hôpital des Diaconesses, Paris (75) - Public - 18.03
+<br>Hôpital privé Armand-Brillard, Nogent-sur-Marne (94) - Public - 17.6
+<br>Hôpital privé de Marne-la-Vallée, Bry-sur-Marne (94) - Public - 17.67
+<br>Hôpital privé de la Seine-Saint-Denis, Le Blanc-Mesnil (93) - Public - 16.82
+<br>Hôpital privé d’Antony, Antony (92) - Public - 18.18
+<br>Institut franco-britannique Kléber, Levallois-Perret (92) - Public - 17.33
+<br>Institut mutualiste Montsouris, Paris (75) - Public - 17.62"
+2025-01-29 14:09:18,Quels sont les meilleurs hôpitaux privés pour faire soigner ma cataracte à Paris,Paris,Privé,Cataracte,"Voici les 3 meilleurs hôpitaux pour la spécialité: Cataracte dans un rayon de 50km autour de Paris:
+<br>Clinique Geoffroy-Saint-Hilaire, Paris (75) - Privé - 19.01
+<br>Clinique Jouvenet, Paris (75) - Privé - 17.61
+<br>CMC Pierre-Cherest, Neuilly-sur-Seine (92) - Privé - 17.25"
+2025-01-29 14:12:28,Quels sont les meilleurs hôpitaux privés pour faire soigner mon audition à Lille,Lille,Privé,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lille:
+<br>Hôpital privé La Louvière, Lille (59) - Privé - 17.95
+<br>Hôpital privé Le Bois, Lille (59) - Privé - 17.56
+<br>Polyclinique du Parc, Saint-Saulve (59) - Privé - 17.41"
+2025-02-04 11:07:26,Quels sont les meilleurs hôpitaux privés pour faire soigner ma cataracte à Paris,Paris,Privé,Cataracte,"Voici les 3 meilleurs hôpitaux pour la spécialité: Cataracte dans un rayon de 50km autour de Paris:
+<br>Clinique Geoffroy-Saint-Hilaire, Paris (75) - Privé - 19.01
+<br>Clinique Jouvenet, Paris (75) - Privé - 17.61
+<br>CMC Pierre-Cherest, Neuilly-sur-Seine (92) - Privé - 17.25"
+2025-02-04 11:07:32,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+<br>Hôpital Necker-Enfants-Malades, Paris (75) - Public - 18.51
+<br>Hôpital de la Pitié-Salpêtrière, Paris (75) - Public - 18.47
+<br>Institut Arthur-Vernes, Paris (75) - Privé - 18.43"
+2025-02-04 11:53:38,Quels sont les meilleurs hôpitaux pour soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+• Voici la ligne 1 du tableau : il s'agit de l'hôpital 'E' de type 't' situé à b. Il possède une note de a/20.
+• Voici la ligne 2 du tableau : il s'agit de l'hôpital 'C' de type 'i' situé à y. Il possède une note de t/20.
+• Voici la ligne 3 du tableau : il s'agit de l'hôpital 'L' de type 'a' situé à i. Il possède une note de t/20.
+• Voici la ligne 4 du tableau : il s'agit de l'hôpital 'L' de type 'o' situé à g. Il possède une note de n/20.
+• Voici la ligne 5 du tableau : il s'agit de l'hôpital 'C' de type 'a' situé à é. Il possède une note de t/20.
+• Voici la ligne 6 du tableau : il s'agit de l'hôpital 'N' de type 'o' situé à e. Il possède une note de t/20.
+• Voici la ligne 7 du tableau : il s'agit de l'hôpital 'D' de type 'i' situé à t. Il possède une note de s/20."
+2025-02-04 13:46:42,Quels sont les meilleurs hôpitaux pour soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+Voici la ligne 1 du tableau, il s'agit de l'hôpital E de type t situé à b. Il possède une note de a. Voici la ligne 2 du tableau, il s'agit de l'hôpital C de type i situé à y. Il possède une note de t. Voici la ligne 3 du tableau, il s'agit de l'hôpital L de type a situé à i. Il possède une note de t. Voici la ligne 4 du tableau, il s'agit de l'hôpital L de type o situé à g. Il possède une note de n. Voici la ligne 5 du tableau, il s'agit de l'hôpital C de type a situé à é. Il possède une note de t. Voici la ligne 6 du tableau, il s'agit de l'hôpital N de type o situé à e. Il possède une note de t. Voici la ligne 7 du tableau, il s'agit de l'hôpital D de type i situé à t. Il possède une note de s."
+2025-02-04 13:50:19,Quels sont les meilleurs hôpitaux pour soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+Voici la ligne 51 du tableau, il s'agit de l'hôpital 'Hôpital Necker-Enfants-Malades, Paris (75)' de type 'Public' situé à 2.1651910102219842. Il possède une note de 18.51/20
+Voici la ligne 55 du tableau, il s'agit de l'hôpital 'Hôpital de la Pitié-Salpêtrière, Paris (75)' de type 'Public' situé à 2.1651910102219842. Il possède une note de 18.47/20
+Voici la ligne 62 du tableau, il s'agit de l'hôpital 'Institut Arthur-Vernes, Paris (75)' de type 'Privé' situé à 2.1651910102219842. Il possède une note de 18.43/20"
+2025-02-04 13:56:13,Quels sont les meilleurs hôpitaux pour soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+Hôpital Necker-Enfants-Malades, Paris (75):Un hôpital de type Public situé à 2.1651910102219842 km. Il possède une note de 18.51/20
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 2.1651910102219842 km. Il possède une note de 18.47/20
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 2.1651910102219842 km. Il possède une note de 18.43/20"
+2025-02-04 13:58:29,Quels sont les meilleurs hôpitaux pour soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+Hôpital Necker-Enfants-Malades, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.51/20
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.47/20
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 2 km. Il possède une note de 18.43/20"
+2025-02-04 17:08:44,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 2 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+Hôpital Necker-Enfants-Malades, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.51/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.47/20"
+2025-02-04 17:11:44,Je veux soigner mon audition dans un établissement privé à Paris,Paris,Privé,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de Paris:
+Clinique Jean Causse, Colombiers (34):Un hôpital de type Privé situé à 174 km. Il possède une note de 18.52/20<br>
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 0 km. Il possède une note de 18.43/20<br>
+Clinique Mathilde, Rouen (76):Un hôpital de type Privé situé à 112 km. Il possède une note de 17.96/20"
+2025-02-04 17:11:44,Je veux soigner mon audition dans un établissement privé à Paris,Paris,Privé,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de Paris:
+Clinique Jean Causse, Colombiers (34):Un hôpital de type Privé situé à 174 km. Il possède une note de 18.52/20<br>
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 0 km. Il possède une note de 18.43/20<br>
+Clinique Mathilde, Rouen (76):Un hôpital de type Privé situé à 112 km. Il possède une note de 17.96/20"
+2025-02-04 17:13:35,Je veux soigner mon audition dans un établissement privé à Paris,Paris,Privé,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de Paris:
+Clinique Jean Causse, Colombiers (34):Un hôpital de type Privé situé à 172 km. Il possède une note de 18.52/20<br>
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 2 km. Il possède une note de 18.43/20<br>
+Clinique Mathilde, Rouen (76):Un hôpital de type Privé situé à 110 km. Il possède une note de 17.96/20"
+2025-02-04 17:13:35,Je veux soigner mon audition dans un établissement privé à Paris,Paris,Privé,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de Paris:
+Clinique Jean Causse, Colombiers (34):Un hôpital de type Privé situé à 172 km. Il possède une note de 18.52/20<br>
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 2 km. Il possède une note de 18.43/20<br>
+Clinique Mathilde, Rouen (76):Un hôpital de type Privé situé à 110 km. Il possède une note de 17.96/20"
+2025-02-04 17:17:17,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+Hôpital Necker-Enfants-Malades, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.51/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.47/20<br>
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 0 km. Il possède une note de 18.43/20"
+2025-02-04 17:17:24,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+Hôpital Necker-Enfants-Malades, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.51/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.47/20<br>
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 0 km. Il possède une note de 18.43/20"
+2025-02-04 17:19:08,Je veux soigner mon audition dans un hôpital publique à Paris,Paris,Public,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+Hôpital Necker-Enfants-Malades, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.51/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.47/20<br>
+Fondation Rothschild, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.21/20"
+2025-02-04 17:29:58,Je veux soigner mon audition à Lyon,Lyon,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lyon:
+CH Lyon-Sud, Pierre-Bénite (69):Un hôpital de type Public situé à 6 km. Il possède une note de 18.39/20<br>
+CHU - Hôpital Nord, Saint-Etienne (42):Un hôpital de type Public situé à 49 km. Il possède une note de 18.0/20<br>
+Hôpital Edouard-Herriot, Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 17.61/20"
+2025-02-04 17:32:53,Je veux soigner mon audition à Lyon,Lyon,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lyon:
+CH Lyon-Sud, Pierre-Bénite (69):Un hôpital de type Public situé à 6 km. Il possède une note de 18.39/20<br>
+CHU - Hôpital Nord, Saint-Etienne (42):Un hôpital de type Public situé à 49 km. Il possède une note de 18.0/20<br>
+Hôpital Edouard-Herriot, Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 17.61/20"
+2025-02-04 17:36:22,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+Hôpital Necker-Enfants-Malades, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.51/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.47/20<br>
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 2 km. Il possède une note de 18.43/20"
+2025-02-04 17:37:36,"Je veux soigner mon audition à Paris dans un établissement privé
+
+",Paris,Privé,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de Paris:
+Clinique Jean Causse, Colombiers (34):Un hôpital de type Privé situé à 172 km. Il possède une note de 18.52/20<br>
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 2 km. Il possède une note de 18.43/20<br>
+Clinique Mathilde, Rouen (76):Un hôpital de type Privé situé à 110 km. Il possède une note de 17.96/20"
+2025-02-04 17:37:36,"Je veux soigner mon audition à Paris dans un établissement privé
+
+",Paris,Privé,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de Paris:
+Clinique Jean Causse, Colombiers (34):Un hôpital de type Privé situé à 172 km. Il possède une note de 18.52/20<br>
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 2 km. Il possède une note de 18.43/20<br>
+Clinique Mathilde, Rouen (76):Un hôpital de type Privé situé à 110 km. Il possède une note de 17.96/20"
+2025-02-04 17:46:30,Je veux soigner ma cataracte à Lyon,Lyon,aucune correspondance,Cataracte,"Voici les 3 meilleurs hôpitaux pour la spécialité: Cataracte dans un rayon de 50km autour de Lyon:
+Hôpitaux Nord (Croix-Rousse), Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 18.15/20<br>
+Hôpital d'instruction des armées Desgenettes, Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 16.91/20<br>
+Hôpital Edouard-Herriot, Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 16.79/20"
+2025-02-04 17:49:00,Je veux soigner ma cataracte à Lyon,Lyon,aucune correspondance,Cataracte,"Voici les 3 meilleurs hôpitaux pour la spécialité: Cataracte dans un rayon de 50km autour de Lyon:
+Hôpitaux Nord (Croix-Rousse), Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 18.15/20<br>
+Hôpital d'instruction des armées Desgenettes, Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 16.91/20<br>
+Hôpital Edouard-Herriot, Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 16.79/20"
+2025-02-04 17:50:08,"Je veux soigner ma cataracte à Lyon
+
+",Lyon,aucune correspondance,Cataracte,"Voici les 3 meilleurs hôpitaux pour la spécialité: Cataracte dans un rayon de 50km autour de Lyon:
+Hôpitaux Nord (Croix-Rousse), Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 18.15/20<br>
+Hôpital d'instruction des armées Desgenettes, Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 16.91/20<br>
+Hôpital Edouard-Herriot, Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 16.79/20"
+2025-02-04 17:51:28,Je veux soigner ma cataracte à Lyon,Lyon,aucune correspondance,Cataracte,"Voici les 3 meilleurs hôpitaux pour la spécialité: Cataracte dans un rayon de 50km autour de Lyon:
+Hôpitaux Nord (Croix-Rousse), Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 18.15/20<br>
+Hôpital d'instruction des armées Desgenettes, Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 16.91/20<br>
+Hôpital Edouard-Herriot, Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 16.79/20"
+2025-02-04 18:05:52,Je veux accoucher à Paris,Paris,aucune correspondance,Accouchements normaux,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accouchements normaux dans un rayon de 50km autour de Paris:
+Hôpital Paris Saint-Joseph, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.7/20<br>
+CH, Versailles (78):Un hôpital de type Public situé à 17 km. Il possède une note de 18.31/20<br>
+Hôpital privé d’Antony, Antony (92):Un hôpital de type Public situé à 11 km. Il possède une note de 18.18/20"
+2025-02-04 18:14:51,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un hôpital de type Public situé à 61 km. Il possède une note de 18.69/20<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un hôpital de type Public situé à 0 km. Il possède une note de 18.11/20<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un hôpital de type Public situé à 50 km. Il possède une note de 17.87/20"
+2025-02-04 18:14:51,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un hôpital de type Public situé à 61 km. Il possède une note de 18.69/20<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un hôpital de type Public situé à 0 km. Il possède une note de 18.11/20<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un hôpital de type Public situé à 50 km. Il possède une note de 17.87/20"
+2025-02-04 18:19:41,Je veux faire corriger mon strabisme dans un hôpital madrilène,Madrid,Public,Strabisme,"Voici les 0 meilleurs hôpitaux pour la spécialité Strabisme dans un rayon de 200km autour de Madrid:<br> 
+"
+2025-02-04 18:19:41,Je veux faire corriger mon strabisme dans un hôpital madrilène,Madrid,Public,Strabisme,"Voici les 0 meilleurs hôpitaux pour la spécialité Strabisme dans un rayon de 200km autour de Madrid:<br> 
+"
+2025-02-04 18:22:11,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs hôpitaux pour la spécialité Endométriose dans un rayon de 200km autour de Saint-Avold:<br> 
+"
+2025-02-04 18:22:11,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs hôpitaux pour la spécialité Endométriose dans un rayon de 200km autour de Saint-Avold:<br> 
+"
+2025-02-05 10:30:41,Est-ce que l'hôpital de la pitié salpétrière est un bon hôpital en cas de problèmes auditifs ? ,Paris,Public,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+Hôpital Necker-Enfants-Malades, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.51/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.47/20<br>
+Fondation Rothschild, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.21/20"
+2025-02-05 11:29:17,Est-ce que le CHU d’Amiens est bon en cas de problèmes auditifs ? ,Amiens,Public,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 100km autour de Amiens:
+Clinique Sainte-Marie (GHICL), Cambrai (59):Un hôpital de type Public situé à 74 km. Il possède une note de 17.53/20<br>
+CHU - Hôpital Roger-Salengro, Lille (59):Un hôpital de type Public situé à 99 km. Il possède une note de 17.36/20<br>
+CHU - Hôpital Claude-Huriez, Lille (59):Un hôpital de type Public situé à 99 km. Il possède une note de 17.29/20"
+2025-02-05 11:29:17,Est-ce que le CHU d’Amiens est bon en cas de problèmes auditifs ? ,Amiens,Public,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 100km autour de Amiens:
+Clinique Sainte-Marie (GHICL), Cambrai (59):Un hôpital de type Public situé à 74 km. Il possède une note de 17.53/20<br>
+CHU - Hôpital Roger-Salengro, Lille (59):Un hôpital de type Public situé à 99 km. Il possède une note de 17.36/20<br>
+CHU - Hôpital Claude-Huriez, Lille (59):Un hôpital de type Public situé à 99 km. Il possède une note de 17.29/20"
+2025-02-05 11:30:00,Est-ce que l'Hôpital Edouard-Herriot est bon en cas de problèmes auditifs ? ,Lyon,Public,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lyon:
+CH Lyon-Sud, Pierre-Bénite (69):Un hôpital de type Public situé à 6 km. Il possède une note de 18.39/20<br>
+CHU - Hôpital Nord, Saint-Etienne (42):Un hôpital de type Public situé à 49 km. Il possède une note de 18.0/20<br>
+Hôpital Edouard-Herriot, Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 17.61/20"
+2025-02-05 11:48:53,Est-ce que l'Hôpital Edouard-Herriot est bon en cas de problèmes auditifs ? ,Lyon,Public,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lyon:
+CH Lyon-Sud, Pierre-Bénite (69):Un hôpital de type Public situé à 6 km. Il possède une note de 18.39/20<br>
+CHU - Hôpital Nord, Saint-Etienne (42):Un hôpital de type Public situé à 49 km. Il possède une note de 18.0/20<br>
+Hôpital Edouard-Herriot, Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 17.61/20"
+2025-02-05 13:59:49,Est-ce que l'Hôpital Edouard-Herriot est bon en cas de problèmes auditifs ? ,Lyon,Public,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lyon:
+CH Lyon-Sud, Pierre-Bénite (69):Un hôpital de type Public situé à 6 km. Il possède une note de 18.39/20<br>
+CHU - Hôpital Nord, Saint-Etienne (42):Un hôpital de type Public situé à 49 km. Il possède une note de 18.0/20<br>
+Hôpital Edouard-Herriot, Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 17.61/20"
+2025-02-05 14:00:08,Est-ce que l'Hôpital Edouard-Herriot est bon en cas de problèmes auditifs ? ,Lyon,Public,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lyon:
+CH Lyon-Sud, Pierre-Bénite (69):Un hôpital de type Public situé à 6 km. Il possède une note de 18.39/20<br>
+CHU - Hôpital Nord, Saint-Etienne (42):Un hôpital de type Public situé à 49 km. Il possède une note de 18.0/20<br>
+Hôpital Edouard-Herriot, Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 17.61/20"
+2025-02-05 14:01:24,Je veux soigner mon AVC à Paris ? ,Paris,aucune correspondance,Accidents vasculaires cérébraux,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accidents vasculaires cérébraux dans un rayon de 50km autour de Paris:
+Fondation Rothschild, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.56/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.16/20<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 17.65/20"
+2025-02-05 14:01:31,Est-ce que l'Hôpital Edouard-Herriot est bon en cas de problèmes auditifs ? ,Lyon,Public,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lyon:
+CH Lyon-Sud, Pierre-Bénite (69):Un hôpital de type Public situé à 6 km. Il possède une note de 18.39/20<br>
+CHU - Hôpital Nord, Saint-Etienne (42):Un hôpital de type Public situé à 49 km. Il possède une note de 18.0/20<br>
+Hôpital Edouard-Herriot, Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 17.61/20"
+2025-02-05 14:01:52,Est-ce que l'Hôpital Edouard-Herriot est bon en cas de problèmes auditifs ? ,Lyon,Public,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lyon:
+CH Lyon-Sud, Pierre-Bénite (69):Un hôpital de type Public situé à 6 km. Il possède une note de 18.39/20<br>
+CHU - Hôpital Nord, Saint-Etienne (42):Un hôpital de type Public situé à 49 km. Il possède une note de 18.0/20<br>
+Hôpital Edouard-Herriot, Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 17.61/20"
+2025-02-05 14:05:00,Je veux soigner mon AVC à Paris ? ,Paris,aucune correspondance,Accidents vasculaires cérébraux,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accidents vasculaires cérébraux dans un rayon de 50km autour de Paris:
+Fondation Rothschild, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.56/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.16/20<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 17.65/20"
+2025-02-05 14:05:09,Est-ce que l'Hôpital Edouard-Herriot est bon en cas de problèmes auditifs ? ,Lyon,Public,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lyon:
+CH Lyon-Sud, Pierre-Bénite (69):Un hôpital de type Public situé à 6 km. Il possède une note de 18.39/20<br>
+CHU - Hôpital Nord, Saint-Etienne (42):Un hôpital de type Public situé à 49 km. Il possède une note de 18.0/20<br>
+Hôpital Edouard-Herriot, Lyon (69):Un hôpital de type Public situé à 0 km. Il possède une note de 17.61/20"
+2025-02-05 14:07:56,Je veux soigner mon audition à Lille,Lille,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lille:
+Hôpital privé La Louvière, Lille (59):Un hôpital de type Privé situé à 0 km. Il possède une note de 17.95/20<br>
+Hôpital privé Le Bois, Lille (59):Un hôpital de type Privé situé à 0 km. Il possède une note de 17.56/20<br>
+Polyclinique du Parc, Saint-Saulve (59):Un hôpital de type Privé situé à 45 km. Il possède une note de 17.41/20"
+2025-02-05 14:09:28,Je veux soigner mon AVC à Paris ? ,Paris,aucune correspondance,Accidents vasculaires cérébraux,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accidents vasculaires cérébraux dans un rayon de 50km autour de Paris:
+Fondation Rothschild, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.56/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.16/20<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 17.65/20"
+2025-02-05 14:10:33,Je veux soigner mon audition à Paris,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+Hôpital Necker-Enfants-Malades, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.51/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.47/20<br>
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 2 km. Il possède une note de 18.43/20"
+2025-02-05 14:12:41,Je veux soigner mon AVC à Paris ? ,Paris,aucune correspondance,Accidents vasculaires cérébraux,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accidents vasculaires cérébraux dans un rayon de 50km autour de Paris:
+Fondation Rothschild, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.56/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.16/20<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 17.65/20"
+2025-02-05 14:14:41,Je veux soigner mon audition à Madrid,ville étrangère,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de ville étrangère:
+Hôpital privé Clairval, Marseille (13):Un hôpital de type Privé situé à 50 km. Il possède une note de 17.81/20<br>
+CHU - Hôpital Gui-de-Chauliac, Montpellier (34):Un hôpital de type Public situé à 175 km. Il possède une note de 17.8/20<br>
+CHU, Nîmes (30):Un hôpital de type Public situé à 150 km. Il possède une note de 17.58/20"
+2025-02-05 14:14:41,Je veux soigner mon audition à Madrid,ville étrangère,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de ville étrangère:
+Hôpital privé Clairval, Marseille (13):Un hôpital de type Privé situé à 50 km. Il possède une note de 17.81/20<br>
+CHU - Hôpital Gui-de-Chauliac, Montpellier (34):Un hôpital de type Public situé à 175 km. Il possède une note de 17.8/20<br>
+CHU, Nîmes (30):Un hôpital de type Public situé à 150 km. Il possède une note de 17.58/20"
+2025-02-05 14:18:18,Je veux soigner mon audition à Madrid,Madrid,aucune correspondance,Audition,"Voici les 0 meilleurs hôpitaux pour la spécialité Audition dans un rayon de 200km autour de Madrid:<br>
+"
+2025-02-05 14:18:18,Je veux soigner mon audition à Madrid,Madrid,aucune correspondance,Audition,"Voici les 0 meilleurs hôpitaux pour la spécialité Audition dans un rayon de 200km autour de Madrid:<br>
+"
+2025-02-05 14:18:25,Je veux soigner mon audition à Madrid,ville étrangère,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de ville étrangère:
+Hôpital privé Clairval, Marseille (13):Un hôpital de type Privé situé à 49 km. Il possède une note de 17.81/20<br>
+CHU - Hôpital Gui-de-Chauliac, Montpellier (34):Un hôpital de type Public situé à 175 km. Il possède une note de 17.8/20<br>
+CHU, Nîmes (30):Un hôpital de type Public situé à 150 km. Il possède une note de 17.58/20"
+2025-02-05 14:18:25,Je veux soigner mon audition à Madrid,ville étrangère,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 200km autour de ville étrangère:
+Hôpital privé Clairval, Marseille (13):Un hôpital de type Privé situé à 49 km. Il possède une note de 17.81/20<br>
+CHU - Hôpital Gui-de-Chauliac, Montpellier (34):Un hôpital de type Public situé à 175 km. Il possède une note de 17.8/20<br>
+CHU, Nîmes (30):Un hôpital de type Public situé à 150 km. Il possède une note de 17.58/20"
+2025-02-05 14:20:11,Je veux soigner mon AVC à Paris ? ,Paris,aucune correspondance,Accidents vasculaires cérébraux,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accidents vasculaires cérébraux dans un rayon de 50km autour de Paris:
+Fondation Rothschild, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.56/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.16/20<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 17.65/20"
+2025-02-05 14:35:51,Je veux soigner mon AVC à Paris ? ,Paris,aucune correspondance,Accidents vasculaires cérébraux,"Voici les 3 meilleurs hôpitaux pour la spécialité: Accidents vasculaires cérébraux dans un rayon de 50km autour de Paris:
+Fondation Rothschild, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.56/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.16/20<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 17.65/20"
+2025-02-05 14:42:11,Je veux un hôpital pour un cancer du foie à Paris ? ,Paris,aucune correspondance,Cancer du foie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Cancer du foie dans un rayon de 50km autour de Paris:
+Hôpital Paul-Brousse, Villejuif (94):Un hôpital de type Public situé à 8 km. Il possède une note de 18.7/20<br>
+Hôpital Beaujon, Clichy (92):Un hôpital de type Public situé à 4 km. Il possède une note de 18.38/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 17.8/20"
+2025-02-05 14:44:58,Je veux un hôpital pour un cancer du foie à Paris ? ,Paris,aucune correspondance,Cancer du foie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Cancer du foie dans un rayon de 50km autour de Paris:
+Hôpital Paul-Brousse, Villejuif (94):Un hôpital de type Public situé à 8 km. Il possède une note de 18.7/20<br>
+Hôpital Beaujon, Clichy (92):Un hôpital de type Public situé à 4 km. Il possède une note de 18.38/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 17.8/20"
+2025-02-05 15:14:42,Je veux faire corriger mon strabisme dans un hôpital madrilène ,ville étrangère,Public,Strabisme,"Voici les 3 meilleurs hôpitaux pour la spécialité: Strabisme dans un rayon de 200km autour de ville étrangère:
+Hôpital Nord, Marseille (13):Un hôpital de type Public situé à 49 km. Il possède une note de 18.1/20<br>
+Hôpital Saint-Joseph, Marseille (13):Un hôpital de type Public situé à 49 km. Il possède une note de 16.77/20<br>
+CHU - Hôpital Gui-de-Chauliac, Montpellier (34):Un hôpital de type Public situé à 175 km. Il possède une note de 16.17/20"
+2025-02-05 15:14:42,Je veux faire corriger mon strabisme dans un hôpital madrilène ,ville étrangère,Public,Strabisme,"Voici les 3 meilleurs hôpitaux pour la spécialité: Strabisme dans un rayon de 200km autour de ville étrangère:
+Hôpital Nord, Marseille (13):Un hôpital de type Public situé à 49 km. Il possède une note de 18.1/20<br>
+Hôpital Saint-Joseph, Marseille (13):Un hôpital de type Public situé à 49 km. Il possède une note de 16.77/20<br>
+CHU - Hôpital Gui-de-Chauliac, Montpellier (34):Un hôpital de type Public situé à 175 km. Il possède une note de 16.17/20"
+2025-02-05 15:24:07,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ? ,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs hôpitaux pour la spécialité Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-05 15:24:07,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ? ,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs hôpitaux pour la spécialité Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-05 15:25:10,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ? ,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs hôpitaux pour la spécialité Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-05 15:25:10,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ? ,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs hôpitaux pour la spécialité Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-05 16:46:53,Je chercher un service de pneumologie à Paris ,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.7/20<br>
+Hôpital Cochin, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.47/20<br>
+Hôpital privé d’Antony, Antony (92):Un hôpital de type Privé situé à 11 km. Il possède une note de 18.42/20"
+2025-02-05 16:56:14,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un hôpital de type Public situé à 61 km. Il possède une note de 18.69/20<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un hôpital de type Public situé à 0 km. Il possède une note de 18.11/20<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un hôpital de type Public situé à 50 km. Il possède une note de 17.87/20"
+2025-02-05 16:56:14,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un hôpital de type Public situé à 61 km. Il possède une note de 18.69/20<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un hôpital de type Public situé à 0 km. Il possède une note de 18.11/20<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un hôpital de type Public situé à 50 km. Il possède une note de 17.87/20"
+2025-02-05 17:15:41,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ? ,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs hôpitaux pour la spécialité Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-05 17:15:41,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ? ,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs hôpitaux pour la spécialité Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-05 17:18:30,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ? ,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs hôpitaux pour la spécialité Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-05 17:18:30,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ? ,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs hôpitaux pour la spécialité Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-05 18:11:44,Pneumologie Paris ? ,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.7/20<br>
+Hôpital Cochin, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.47/20<br>
+Hôpital privé d’Antony, Antony (92):Un hôpital de type Privé situé à 11 km. Il possède une note de 18.42/20"
+2025-02-06 08:21:21,Je veux un hôpital pour une audition à Paris ? ,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+Hôpital Necker-Enfants-Malades, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.51/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.47/20<br>
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 0 km. Il possède une note de 18.43/20"
+2025-02-06 08:53:34,Je veux un hôpital pour une audition à Paris ? ,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+Hôpital Necker-Enfants-Malades, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.51/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.47/20<br>
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 0 km. Il possède une note de 18.43/20"
+2025-02-06 08:58:27,Je veux un hôpital pour une audition à Paris ? ,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+Hôpital Necker-Enfants-Malades, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.51/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.47/20<br>
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 0 km. Il possède une note de 18.43/20"
+2025-02-06 09:01:00,Je veux un hôpital pour une audition à Paris ? ,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+Hôpital Necker-Enfants-Malades, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.51/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.47/20<br>
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 0 km. Il possède une note de 18.43/20"
+2025-02-06 09:03:44,Je veux un hôpital pour une audition à Paris ? ,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+Hôpital Necker-Enfants-Malades, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.51/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.47/20<br>
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 0 km. Il possède une note de 18.43/20"
+2025-02-06 09:04:11,Je veux un hôpital pour une audition à Paris ? ,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+Hôpital Necker-Enfants-Malades, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.51/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.47/20<br>
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 0 km. Il possède une note de 18.43/20"
+2025-02-06 11:05:13,Je veux un hôpital pour soigner mon audition à Paris ? ,Paris,aucune correspondance,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Paris:
+Hôpital Necker-Enfants-Malades, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.51/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.47/20<br>
+Institut Arthur-Vernes, Paris (75):Un hôpital de type Privé situé à 0 km. Il possède une note de 18.43/20"
+2025-02-06 12:10:24,Je chercher un service de pneumologie à Paris  ,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.7/20<br>
+Hôpital Cochin, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.47/20<br>
+Hôpital privé d’Antony, Antony (92):Un hôpital de type Privé situé à 11 km. Il possède une note de 18.42/20"
+2025-02-06 12:14:58,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un hôpital de type Public situé à 61 km. Il possède une note de 18.69/20<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un hôpital de type Public situé à 0 km. Il possède une note de 18.11/20<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un hôpital de type Public situé à 50 km. Il possède une note de 17.87/20"
+2025-02-06 12:14:58,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un hôpital de type Public situé à 61 km. Il possède une note de 18.69/20<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un hôpital de type Public situé à 0 km. Il possède une note de 18.11/20<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un hôpital de type Public situé à 50 km. Il possède une note de 17.87/20"
+2025-02-06 12:20:05,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un hôpital de type Public situé à 61 km. Il possède une note de 18.69/20<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un hôpital de type Public situé à 0 km. Il possède une note de 18.11/20<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un hôpital de type Public situé à 50 km. Il possède une note de 17.87/20"
+2025-02-06 12:20:05,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un hôpital de type Public situé à 61 km. Il possède une note de 18.69/20<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un hôpital de type Public situé à 0 km. Il possède une note de 18.11/20<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un hôpital de type Public situé à 50 km. Il possède une note de 17.87/20"
+2025-02-06 12:27:40,Je veux faire corriger mon strabisme dans un hôpital madrilène,ville étrangère,Public,Strabisme,"Voici les 3 meilleurs hôpitaux pour la spécialité: Strabisme dans un rayon de 200km autour de ville étrangère:
+Hôpital Nord, Marseille (13):Un hôpital de type Public situé à 50 km. Il possède une note de 18.1/20<br>
+Hôpital Saint-Joseph, Marseille (13):Un hôpital de type Public situé à 50 km. Il possède une note de 16.77/20<br>
+CHU - Hôpital Gui-de-Chauliac, Montpellier (34):Un hôpital de type Public situé à 175 km. Il possède une note de 16.17/20"
+2025-02-06 12:27:40,Je veux faire corriger mon strabisme dans un hôpital madrilène,ville étrangère,Public,Strabisme,"Voici les 3 meilleurs hôpitaux pour la spécialité: Strabisme dans un rayon de 200km autour de ville étrangère:
+Hôpital Nord, Marseille (13):Un hôpital de type Public situé à 50 km. Il possède une note de 18.1/20<br>
+Hôpital Saint-Joseph, Marseille (13):Un hôpital de type Public situé à 50 km. Il possède une note de 16.77/20<br>
+CHU - Hôpital Gui-de-Chauliac, Montpellier (34):Un hôpital de type Public situé à 175 km. Il possède une note de 16.17/20"
+2025-02-06 12:32:58,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs hôpitaux pour la spécialité Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-06 12:32:58,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs hôpitaux pour la spécialité Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-06 14:39:24,Je chercher un service de pneumologie à Paris ,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.7/20<br>
+Hôpital Cochin, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 18.47/20<br>
+Hôpital privé d’Antony, Antony (92):Un hôpital de type Privé situé à 11 km. Il possède une note de 18.42/20"
+2025-02-06 14:47:27,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un hôpital de type Public situé à 61 km. Il possède une note de 18.69/20<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un hôpital de type Public situé à 0 km. Il possède une note de 18.11/20<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un hôpital de type Public situé à 50 km. Il possède une note de 17.87/20"
+2025-02-06 14:47:27,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un hôpital de type Public situé à 61 km. Il possède une note de 18.69/20<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un hôpital de type Public situé à 0 km. Il possède une note de 18.11/20<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un hôpital de type Public situé à 50 km. Il possède une note de 17.87/20"
+2025-02-06 14:48:16,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un hôpital de type Public situé à 61 km. Il possède une note de 18.69/20<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un hôpital de type Public situé à 0 km. Il possède une note de 18.11/20<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un hôpital de type Public situé à 50 km. Il possède une note de 17.87/20"
+2025-02-06 14:48:16,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un hôpital de type Public situé à 61 km. Il possède une note de 18.69/20<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un hôpital de type Public situé à 0 km. Il possède une note de 18.11/20<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un hôpital de type Public situé à 50 km. Il possède une note de 17.87/20"
+2025-02-07 11:39:56, Conseille moi un hôpital à Marseille,Marseille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs hôpitaux pour la spécialité: aucune correspondance dans un rayon de 50km autour de Marseille:
+Hôpital privé de Provence, Aix-en-Provence (13):Un hôpital de type Privé situé à 26 km. Il possède une note de 124.0/20<br>
+Hôpital de la Timone (adultes), Marseille (13):Un hôpital de type Public situé à 0 km. Il possède une note de 113.0/20<br>
+Hôpital Saint-Joseph, Marseille (13):Un hôpital de type Public situé à 0 km. Il possède une note de 108.0/20"
+2025-02-07 11:45:55, Conseille moi un hôpital à Marseille,Marseille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs hôpitaux pour la spécialité: aucune correspondance dans un rayon de 50km autour de Marseille:
+Hôpital privé de Provence, Aix-en-Provence (13):Un hôpital de type Privé situé à 26 km. Il possède une note de 124.0/20<br>
+Hôpital de la Timone (adultes), Marseille (13):Un hôpital de type Public situé à 0 km. Il possède une note de 113.0/20<br>
+Hôpital Saint-Joseph, Marseille (13):Un hôpital de type Public situé à 0 km. Il possède une note de 108.0/20"
+2025-02-07 11:48:45, Quel est le meilleur hôpital de Paris,Paris,Public,aucune correspondance,"Voici les 3 meilleurs hôpitaux pour la spécialité: aucune correspondance dans un rayon de 50km autour de Paris:
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 255.0/20<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 217.0/20<br>
+Hôpital Cochin, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 124.0/20"
+2025-02-07 11:49:41, Quel est le meilleur établissement de Paris,Paris,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs hôpitaux pour la spécialité: aucune correspondance dans un rayon de 50km autour de Paris:
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 255.0/20<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 217.0/20<br>
+Hôpital Cochin, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 124.0/20"
+2025-02-07 11:57:58,Quel est le meilleur hôpital publique à Lille? ,Lille,Public,aucune correspondance,"Voici les 2 meilleurs hôpitaux pour la spécialité aucune correspondance dans un rayon de 200km autour de Lille:<br>
+CHU, Lille (59):Un hôpital de type Public situé à 0 km. Il possède une note de 370.0/20<br>
+CH, Valenciennes (59):Un hôpital de type Public situé à 45 km. Il possède une note de 119.0/20"
+2025-02-07 11:57:58,Quel est le meilleur hôpital publique à Lille? ,Lille,Public,aucune correspondance,"Voici les 2 meilleurs hôpitaux pour la spécialité aucune correspondance dans un rayon de 200km autour de Lille:<br>
+CHU, Lille (59):Un hôpital de type Public situé à 0 km. Il possède une note de 370.0/20<br>
+CH, Valenciennes (59):Un hôpital de type Public situé à 45 km. Il possède une note de 119.0/20"
+2025-02-07 14:28:57,Je veux faire soigner mon audition dans un établissement publique à Lille?,Lille,Public,Audition,"Voici les 3 meilleurs hôpitaux pour la spécialité: Audition dans un rayon de 50km autour de Lille:
+CHU - Hôpital Roger-Salengro, Lille (59):Un hôpital de type Public situé à 0 km. Il possède une note de 17.36/20<br>
+CHU - Hôpital Claude-Huriez, Lille (59):Un hôpital de type Public situé à 0 km. Il possède une note de 17.29/20<br>
+Hôpital Saint-Vincent-de-Paul (GHICL), Lille (59):Un hôpital de type Public situé à 0 km. Il possède une note de 17.17/20"
+2025-02-07 14:35:35,Quels sont les meilleurs hôpitaux dans le 92?,92,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs hôpitaux au palmarès général dans un rayon de 50km autour de 92:
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 11 km. Il possède une note de 255.0/20<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un hôpital de type Public situé à 11 km. Il possède une note de 217.0/20<br>
+Hôpital Cochin, Paris (75):Un hôpital de type Public situé à 11 km. Il possède une note de 124.0/20"
+2025-02-07 15:35:46,Quels sont les meilleurs établissements pour à Paris??,Paris,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs hôpitaux au palmarès général dans un rayon de 50km autour de Paris:
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 255.0/20<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 217.0/20<br>
+Hôpital Cochin, Paris (75):Un hôpital de type Public situé à 0 km. Il possède une note de 124.0/20"
+2025-02-07 15:38:49,Quels sont les meilleurs établissements à Reims?,Reims,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs hôpitaux au palmarès général dans un rayon de 200km autour de Reims:
+CHU, Lille (59):Un hôpital de type Public situé à 168 km. Il possède une note de 370.0/20<br>
+CHU, Nancy (54):Un hôpital de type Public situé à 169 km. Il possède une note de 302.0/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 131 km. Il possède une note de 255.0/20"
+2025-02-07 15:38:49,Quels sont les meilleurs établissements à Reims?,Reims,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs hôpitaux au palmarès général dans un rayon de 200km autour de Reims:
+CHU, Lille (59):Un hôpital de type Public situé à 168 km. Il possède une note de 370.0/20<br>
+CHU, Nancy (54):Un hôpital de type Public situé à 169 km. Il possède une note de 302.0/20<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 131 km. Il possède une note de 255.0/20"
+2025-02-07 15:39:39,Quels sont les 2 meilleurs établissements à Reims?,Reims,aucune correspondance,aucune correspondance,"Voici les 2 meilleurs hôpitaux au palmarès général dans un rayon de 200km autour de Reims:
+CHU, Lille (59):Un hôpital de type Public situé à 168 km. Il possède une note de 370.0/20<br>
+CHU, Nancy (54):Un hôpital de type Public situé à 169 km. Il possède une note de 302.0/20"
+2025-02-07 15:39:39,Quels sont les 2 meilleurs établissements à Reims?,Reims,aucune correspondance,aucune correspondance,"Voici les 2 meilleurs hôpitaux au palmarès général dans un rayon de 200km autour de Reims:
+CHU, Lille (59):Un hôpital de type Public situé à 168 km. Il possède une note de 370.0/20<br>
+CHU, Nancy (54):Un hôpital de type Public situé à 169 km. Il possède une note de 302.0/20"
+2025-02-07 15:43:54,Quel est le meilleur établissement à Reims?,Reims,aucune correspondance,aucune correspondance,"Voici les 1 meilleurs hôpitaux au palmarès général dans un rayon de 200km autour de Reims:
+CHU, Lille (59):Un hôpital de type Public situé à 168 km. Il possède une note de 370.0/20"
+2025-02-07 15:43:54,Quel est le meilleur établissement à Reims?,Reims,aucune correspondance,aucune correspondance,"Voici les 1 meilleurs hôpitaux au palmarès général dans un rayon de 200km autour de Reims:
+CHU, Lille (59):Un hôpital de type Public situé à 168 km. Il possède une note de 370.0/20"
+2025-02-07 15:59:37,Quel est le meilleur établissement privé à Saint-Herblain?,Saint-Herblain,Privé,aucune correspondance,"Voici les 1 meilleurs hôpitaux au palmarès général dans un rayon de 50km autour de Saint-Herblain:
+Santé Atlantique, Saint-Herblain (44):Un hôpital de type Privé situé à 0 km. Il possède une note de 192.0/20"
+2025-02-07 17:25:57,Conseille moi un hôpital à Marseille,Marseille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs hôpitaux au palmarès général dans un rayon de 50km autour de Marseille:
+Hôpital privé de Provence, Aix-en-Provence (13):Un hôpital de type Privé situé à 26 km. Il possède une note de 124.0/20<br>
+Hôpital de la Timone (adultes), Marseille (13):Un hôpital de type Public situé à 0 km. Il possède une note de 113.0/20<br>
+Hôpital Saint-Joseph, Marseille (13):Un hôpital de type Public situé à 0 km. Il possède une note de 108.0/20"
+2025-02-07 17:27:27,Conseille moi un hôpital privé à Marseille,Marseille,Privé,aucune correspondance,"Voici les 3 meilleurs hôpitaux au palmarès général dans un rayon de 50km autour de Marseille:
+Hôpital privé de Provence, Aix-en-Provence (13):Un hôpital de type Privé situé à 26 km. Il possède une note de 124.0/20<br>
+Clinique Juge, Marseille (13):Un hôpital de type Privé situé à 0 km. Il possède une note de 68.0/20<br>
+Hôpital privé Clairval, Marseille (13):Un hôpital de type Privé situé à 0 km. Il possède une note de 50.0/20"
+2025-02-07 17:31:06,Est-ce que l'hôpital Necker est un bon hôpital?,confusion,Public,aucune correspondance,"Voici les 0 meilleurs hôpitaux au classement général dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-07 17:31:06,Est-ce que l'hôpital Necker est un bon hôpital?,confusion,Public,aucune correspondance,"Voici les 0 meilleurs hôpitaux au classement général dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-07 17:31:45,Est-ce que l'hôpital de la pitié salpétrière est un bon hôpital en cas de problèmes auditifs ?,confusion,Public,Audition,"Voici les 0 meilleurs hôpitaux pour la spécialité Audition dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-07 17:31:45,Est-ce que l'hôpital de la pitié salpétrière est un bon hôpital en cas de problèmes auditifs ?,confusion,Public,Audition,"Voici les 0 meilleurs hôpitaux pour la spécialité Audition dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-07 17:34:21,Est-ce que l'hôpital de la pitié salpétrière est un bon hôpital en cas de problèmes auditifs ?,confusion,Public,Audition,"Voici les 0 meilleurs hôpitaux pour la spécialité Audition dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-07 17:34:21,Est-ce que l'hôpital de la pitié salpétrière est un bon hôpital en cas de problèmes auditifs ?,confusion,Public,Audition,"Voici les 0 meilleurs hôpitaux pour la spécialité Audition dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-07 18:05:41,Où faire soigner mon glaucome à proximité de Montigny ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs hôpitaux pour la spécialité Glaucome dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-07 18:05:41,Où faire soigner mon glaucome à proximité de Montigny ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs hôpitaux pour la spécialité Glaucome dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-10 09:33:54,Conseille moi un hôpital à Marseille,Marseille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs hôpitaux au palmarès général dans un rayon de 50km autour de Marseille:
+Hôpital privé de Provence, Aix-en-Provence (13):Un hôpital de type Privé situé à 26 km. Il possède une note de 124.0/20<br>
+Hôpital de la Timone (adultes), Marseille (13):Un hôpital de type Public situé à 0 km. Il possède une note de 113.0/20<br>
+Hôpital Saint-Joseph, Marseille (13):Un hôpital de type Public situé à 0 km. Il possède une note de 108.0/20"
+2025-02-10 09:57:40,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un hôpital de type Public situé à 61 km. Il possède une note de 18.69/20<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un hôpital de type Public situé à 0 km. Il possède une note de 18.11/20<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un hôpital de type Public situé à 50 km. Il possède une note de 17.87/20"
+2025-02-10 09:57:40,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un hôpital de type Public situé à 61 km. Il possède une note de 18.69/20<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un hôpital de type Public situé à 0 km. Il possède une note de 18.11/20<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un hôpital de type Public situé à 50 km. Il possède une note de 17.87/20"
+2025-02-10 09:59:20,J'ai une gastro-entérite et je suis très inquiet. Où puis-je aller à Lille pour me faire soigner ?,Lille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs hôpitaux au palmarès général dans un rayon de 50km autour de Lille:
+CHU, Lille (59):Un hôpital de type Public situé à 0 km. Il possède une note de 370.0/20<br>
+CH, Valenciennes (59):Un hôpital de type Public situé à 45 km. Il possède une note de 119.0/20<br>
+Hôpital privé Le Bois, Lille (59):Un hôpital de type Privé situé à 0 km. Il possède une note de 61.0/20"
+2025-02-10 10:01:10,Je veux faire corriger mon strabisme dans un hôpital madrilène,ville étrangère,Public,Strabisme,"Voici les 3 meilleurs hôpitaux pour la spécialité: Strabisme dans un rayon de 200km autour de ville étrangère:
+Hôpital Nord, Marseille (13):Un hôpital de type Public situé à 49 km. Il possède une note de 18.1/20<br>
+Hôpital Saint-Joseph, Marseille (13):Un hôpital de type Public situé à 49 km. Il possède une note de 16.77/20<br>
+CHU - Hôpital Gui-de-Chauliac, Montpellier (34):Un hôpital de type Public situé à 175 km. Il possède une note de 16.17/20"
+2025-02-10 10:01:10,Je veux faire corriger mon strabisme dans un hôpital madrilène,ville étrangère,Public,Strabisme,"Voici les 3 meilleurs hôpitaux pour la spécialité: Strabisme dans un rayon de 200km autour de ville étrangère:
+Hôpital Nord, Marseille (13):Un hôpital de type Public situé à 49 km. Il possède une note de 18.1/20<br>
+Hôpital Saint-Joseph, Marseille (13):Un hôpital de type Public situé à 49 km. Il possède une note de 16.77/20<br>
+CHU - Hôpital Gui-de-Chauliac, Montpellier (34):Un hôpital de type Public situé à 175 km. Il possède une note de 16.17/20"
+2025-02-10 10:14:59,Où faire soigner mon glaucome à proximité de Valmont ?,Valmont,aucune correspondance,Glaucome,"Voici les 3 meilleurs hôpitaux pour la spécialité: Glaucome dans un rayon de 200km autour de Valmont:
+CH national d’ophtalmologie des Quinze-Vingts, Paris (75):Un hôpital de type Public situé à 166 km. Il possède une note de 19.0/20<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un hôpital de type Public situé à 166 km. Il possède une note de 18.96/20<br>
+Fondation Rothschild, Paris (75):Un hôpital de type Public situé à 166 km. Il possède une note de 18.92/20"
+2025-02-10 10:14:59,Où faire soigner mon glaucome à proximité de Valmont ?,Valmont,aucune correspondance,Glaucome,"Voici les 3 meilleurs hôpitaux pour la spécialité: Glaucome dans un rayon de 200km autour de Valmont:
+CH national d’ophtalmologie des Quinze-Vingts, Paris (75):Un hôpital de type Public situé à 166 km. Il possède une note de 19.0/20<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un hôpital de type Public situé à 166 km. Il possède une note de 18.96/20<br>
+Fondation Rothschild, Paris (75):Un hôpital de type Public situé à 166 km. Il possède une note de 18.92/20"
+2025-02-10 10:17:40,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs hôpitaux pour la spécialité Glaucome dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-10 10:17:40,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs hôpitaux pour la spécialité Glaucome dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-10 10:26:16,Conseille moi un hôpital à Marseille,Marseille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs hôpitaux au palmarès général dans un rayon de 50km autour de Marseille:
+Hôpital privé de Provence, Aix-en-Provence (13):Un hôpital de type Privé situé à 26 km. Il possède une note de 124.0/20<br>
+Hôpital de la Timone (adultes), Marseille (13):Un hôpital de type Public situé à 0 km. Il possède une note de 113.0/20<br>
+Hôpital Saint-Joseph, Marseille (13):Un hôpital de type Public situé à 0 km. Il possède une note de 108.0/20"
+2025-02-10 10:29:17,Je chercher un service de pneumologie à Paris ,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.7/20<br>
+Hôpital Cochin, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.47/20<br>
+Hôpital privé d’Antony, Antony (92):Un hôpital de type Privé situé à 11 km. Il possède une note de 18.42/20"
+2025-02-10 10:38:27,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,confusion,Public,Proctologie,"Voici les 0 meilleurs hôpitaux pour la spécialité Proctologie dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-10 10:38:27,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,confusion,Public,Proctologie,"Voici les 0 meilleurs hôpitaux pour la spécialité Proctologie dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-10 10:42:14,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un hôpital de type Public situé à 61 km. Il possède une note de 18.69/20<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un hôpital de type Public situé à 0 km. Il possède une note de 18.11/20<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un hôpital de type Public situé à 50 km. Il possède une note de 17.87/20"
+2025-02-10 10:42:14,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un hôpital de type Public situé à 61 km. Il possède une note de 18.69/20<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un hôpital de type Public situé à 0 km. Il possède une note de 18.11/20<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un hôpital de type Public situé à 50 km. Il possède une note de 17.87/20"
+2025-02-10 10:43:49,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs hôpitaux pour la spécialité Glaucome dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-10 10:43:49,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs hôpitaux pour la spécialité Glaucome dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-10 10:47:31,Je cherche à faire soigner mes troubles depressifs,aucune correspondance.,aucune correspondance,Dépression,"Voici les 0 meilleurs hôpitaux pour la spécialité Dépression dans un rayon de 200km autour de aucune correspondance.:<br>
+"
+2025-02-10 10:47:31,Je cherche à faire soigner mes troubles depressifs,aucune correspondance.,aucune correspondance,Dépression,"Voici les 0 meilleurs hôpitaux pour la spécialité Dépression dans un rayon de 200km autour de aucune correspondance.:<br>
+"
+2025-02-10 10:53:44,J'ai une gastro-entérite et je suis très inquiet. Où puis-je aller à Lille pour me faire soigner ?,Lille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs hôpitaux au palmarès général dans un rayon de 50km autour de Lille:
+CHU, Lille (59):Un hôpital de type Public situé à 0 km. Il possède une note de 370.0/20<br>
+CH, Valenciennes (59):Un hôpital de type Public situé à 45 km. Il possède une note de 119.0/20<br>
+Hôpital privé Le Bois, Lille (59):Un hôpital de type Privé situé à 0 km. Il possède une note de 61.0/20"
+2025-02-10 11:48:19,Quel est le meilleur hôpital de Lille?,Lille,aucune correspondance,aucune correspondance,"Voici les 1 meilleurs hôpitaux au palmarès général dans un rayon de 50km autour de Lille:
+CHU, Lille (59):Un hôpital de type Public situé à 0 km. Il possède une note de 370.0/20"
+2025-02-10 11:50:19,Est-ce que la CLINIQUE DU PARC LYON est un bon hôpital ?,confusion,Privé,aucune correspondance,"Voici les 0 meilleurs hôpitaux au classement général dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-10 11:50:19,Est-ce que la CLINIQUE DU PARC LYON est un bon hôpital ?,confusion,Privé,aucune correspondance,"Voici les 0 meilleurs hôpitaux au classement général dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-10 11:58:12,Quel est le meilleur établissement privé à Saint-Herblain?,Saint-Herblain,Privé,aucune correspondance,"Voici les 1 meilleurs hôpitaux au palmarès général dans un rayon de 50km autour de Saint-Herblain:
+Santé Atlantique, Saint-Herblain (44):Un hôpital de type Privé situé à 0 km. Il possède une note de 192.0/20"
+2025-02-10 11:58:47,Quel est le meilleur établissement privé à Saint-Herblain?,Saint-Herblain,Privé,aucune correspondance,"Voici les 1 meilleurs hôpitaux au palmarès général dans un rayon de 50km autour de Saint-Herblain:
+Santé Atlantique, Saint-Herblain (44):Un hôpital de type Privé situé à 0 km. Il possède une note de 192.0/20"
+2025-02-10 13:56:43,Est-ce que l'hôpital de la pitié salpétrière est un bon hôpital ?,Paris,Public,aucune correspondance,"Voici les 3 meilleurs hôpitaux au palmarès général dans un rayon de 50km autour de Paris:
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 255.0/20<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 217.0/20<br>
+Hôpital Cochin, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 124.0/20"
+2025-02-10 14:47:48,Quel est le meilleur hôpital de Reims?,Reims,Public,aucune correspondance,"Voici les 1 meilleurs hôpitaux au palmarès général dans un rayon de 200km autour de Reims:
+CHU, Lille (59):Un hôpital de type Public situé à 168 km. Il possède une note de 370.0/20"
+2025-02-10 14:47:48,Quel est le meilleur hôpital de Reims?,Reims,Public,aucune correspondance,"Voici les 1 meilleurs hôpitaux au palmarès général dans un rayon de 200km autour de Reims:
+CHU, Lille (59):Un hôpital de type Public situé à 168 km. Il possède une note de 370.0/20"
+2025-02-10 14:50:59,Est-ce que la CLINIQUE DU PARC LYON est un bon hôpital ?,confusion,Privé,aucune correspondance,"Voici les 0 meilleurs hôpitaux au classement général dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-10 14:50:59,Est-ce que la CLINIQUE DU PARC LYON est un bon hôpital ?,confusion,Privé,aucune correspondance,"Voici les 0 meilleurs hôpitaux au classement général dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-10 14:53:41,Est-ce que la CLINIQUE DU PARC LYON est un bon hôpital ?,confusion,Privé,aucune correspondance,"Voici les 0 meilleurs hôpitaux au classement général dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-10 14:53:41,Est-ce que la CLINIQUE DU PARC LYON est un bon hôpital ?,confusion,Privé,aucune correspondance,"Voici les 0 meilleurs hôpitaux au classement général dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-11 13:29:40,Conseille moi un hôpital à Marseille,Marseille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs hôpitaux au palmarès général dans un rayon de 50km autour de Marseille:
+Hôpital privé de Provence, Aix-en-Provence (13):Un hôpital de type Privé situé à 26 km. Il possède une note de 124.0<br>
+Hôpital de la Timone (adultes), Marseille (13):Un hôpital de type Public situé à 0 km. Il possède une note de 113.0<br>
+Hôpital Saint-Joseph, Marseille (13):Un hôpital de type Public situé à 0 km. Il possède une note de 108.0"
+2025-02-11 13:29:56,Je chercher un service de pneumologie à Paris,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.7<br>
+Hôpital Cochin, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.47<br>
+Hôpital privé d’Antony, Antony (92):Un hôpital de type Privé situé à 11 km. Il possède une note de 18.42"
+2025-02-11 13:30:06,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs hôpitaux pour la spécialité Glaucome dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-11 13:30:06,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs hôpitaux pour la spécialité Glaucome dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-11 13:44:56,Conseille moi un hôpital à Marseille,Marseille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs hôpitaux au palmarès général dans un rayon de 50km autour de Marseille:
+Hôpital privé de Provence, Aix-en-Provence (13):Un hôpital de type Privé situé à 26 km. Il possède une note de 124.0<br>
+Hôpital de la Timone (adultes), Marseille (13):Un hôpital de type Public situé à 0 km. Il possède une note de 113.0<br>
+Hôpital Saint-Joseph, Marseille (13):Un hôpital de type Public situé à 0 km. Il possède une note de 108.0"
+2025-02-11 13:45:13,Je chercher un service de pneumologie à Paris,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs hôpitaux pour la spécialité: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.7<br>
+Hôpital Cochin, Paris (75):Un hôpital de type Public situé à 2 km. Il possède une note de 18.47<br>
+Hôpital privé d’Antony, Antony (92):Un hôpital de type Privé situé à 11 km. Il possède une note de 18.42"
+2025-02-11 13:45:21,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs hôpitaux pour la spécialité Glaucome dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-11 13:45:21,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs hôpitaux pour la spécialité Glaucome dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-11 13:51:26,Conseille moi un hôpital à Marseille,Marseille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs établissements au palmarès général dans un rayon de 50km autour de Marseille:
+Hôpital privé de Provence, Aix-en-Provence (13):Un hôpital Privé situé à 26 km. Il possède une note de 124.0<br>
+Hôpital de la Timone (adultes), Marseille (13):Un hôpital Public situé à 0 km. Il possède une note de 113.0<br>
+Hôpital Saint-Joseph, Marseille (13):Un hôpital Public situé à 0 km. Il possède une note de 108.0"
+2025-02-11 13:51:42,Je chercher un service de pneumologie à Paris,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs établissements pour la spécialité: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un hôpital Public situé à 2 km. Il possède une note de 18.7<br>
+Hôpital Cochin, Paris (75):Un hôpital Public situé à 2 km. Il possède une note de 18.47<br>
+Hôpital privé d’Antony, Antony (92):Un hôpital Privé situé à 11 km. Il possède une note de 18.42"
+2025-02-11 13:51:52,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs établissements pour la spécialité Glaucome dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-11 13:51:52,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs établissements pour la spécialité Glaucome dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-11 13:58:21,Conseille moi un hôpital à Marseille,Marseille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs établissements au palmarès général dans un rayon de 50km autour de Marseille:
+Hôpital privé de Provence, Aix-en-Provence (13):Un établissement Privé situé à 26 km. Il possède une note de 124.0<br>
+Hôpital de la Timone (adultes), Marseille (13):Un établissement Public situé à 0 km. Il possède une note de 113.0<br>
+Hôpital Saint-Joseph, Marseille (13):Un établissement Public situé à 0 km. Il possède une note de 108.0"
+2025-02-11 13:58:37,Je chercher un service de pneumologie à Paris,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs établissements pour la spécialité: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un établissement Public situé à 2 km. Il possède une note de 18.7<br>
+Hôpital Cochin, Paris (75):Un établissement Public situé à 2 km. Il possède une note de 18.47<br>
+Hôpital privé d’Antony, Antony (92):Un établissement Privé situé à 11 km. Il possède une note de 18.42"
+2025-02-11 13:58:47,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs établissements pour la spécialité Glaucome dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-11 13:58:47,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs établissements pour la spécialité Glaucome dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-11 14:10:04,je veux accoucher à Paris,Paris,aucune correspondance,Accouchements normaux,"Voici les 3 meilleurs établissements pour la spécialité: Accouchements normaux dans un rayon de 50km autour de Paris:
+Hôpital Paris Saint-Joseph, Paris (75):Un établissement Public situé à 2 km. Il possède une note de 18.7<br>
+CH, Versailles (78):Un établissement Public situé à 15 km. Il possède une note de 18.31<br>
+Hôpital privé d’Antony, Antony (92):Un établissement Public situé à 11 km. Il possède une note de 18.18"
+2025-02-11 15:01:49,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs établissements pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un établissement Public situé à 61 km. Il possède une note de 18.69<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un établissement Public situé à 0 km. Il possède une note de 18.11<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un établissement Public situé à 50 km. Il possède une note de 17.87"
+2025-02-11 15:01:49,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs établissements pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un établissement Public situé à 61 km. Il possède une note de 18.69<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un établissement Public situé à 0 km. Il possède une note de 18.11<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un établissement Public situé à 50 km. Il possède une note de 17.87"
+2025-02-11 15:11:05,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs établissements pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un établissement Public situé à 61 km. Il possède une note de 18.69<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un établissement Public situé à 0 km. Il possède une note de 18.11<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un établissement Public situé à 50 km. Il possède une note de 17.87"
+2025-02-11 15:11:05,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs établissements pour la spécialité: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un établissement Public situé à 61 km. Il possède une note de 18.69<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un établissement Public situé à 0 km. Il possède une note de 18.11<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un établissement Public situé à 50 km. Il possède une note de 17.87"
+2025-02-11 15:14:35,J'ai une gastro-entérite et je suis très inquiet. Où puis-je aller à Lille pour me faire soigner ?,Lille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs établissements au palmarès général dans un rayon de 50km autour de Lille:
+CHU, Lille (59):Un établissement Public situé à 0 km. Il possède une note de 370.0<br>
+CH, Valenciennes (59):Un établissement Public situé à 45 km. Il possède une note de 119.0<br>
+Hôpital privé Le Bois, Lille (59):Un établissement Privé situé à 0 km. Il possède une note de 61.0"
+2025-02-11 15:16:23,Je veux faire corriger mon strabisme dans un hôpital madrilène,Madrid,Public,Strabisme,"Voici les 0 meilleurs établissements pour la spécialité Strabisme dans un rayon de 200km autour de Madrid:<br>
+"
+2025-02-11 15:16:23,Je veux faire corriger mon strabisme dans un hôpital madrilène,Madrid,Public,Strabisme,"Voici les 0 meilleurs établissements pour la spécialité Strabisme dans un rayon de 200km autour de Madrid:<br>
+"
+2025-02-11 15:20:51,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la spécialité Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-11 15:20:51,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la spécialité Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-11 15:32:39,Je veux faire corriger mon strabisme dans un hôpital madrilène,confusion,Public,Strabisme,"Voici les 0 meilleurs établissements pour la spécialité Strabisme dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-11 15:32:39,Je veux faire corriger mon strabisme dans un hôpital madrilène,confusion,Public,Strabisme,"Voici les 0 meilleurs établissements pour la spécialité Strabisme dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-13 10:45:24,Je veux faire corriger mon strabisme à Lyon,Lyon,aucune correspondance,Strabisme,"Voici les 3 meilleurs établissements pour la pathologie: Strabisme dans un rayon de 200km autour de Lyon:
+Clinique de la Part-Dieu, Lyon (69):Un établissement Privé situé à 0 km. avec une note de 18.11<br>
+CHU - Gabriel-Montpied, Clermont-Ferrand (63):Un établissement Public situé à 136 km. avec une note de 18.03<br>
+CHU, Besançon (25):Un établissement Public situé à 188 km. avec une note de 17.13"
+2025-02-13 10:45:24,Je veux faire corriger mon strabisme à Lyon,Lyon,aucune correspondance,Strabisme,"Voici les 3 meilleurs établissements pour la pathologie: Strabisme dans un rayon de 200km autour de Lyon:
+Clinique de la Part-Dieu, Lyon (69):Un établissement Privé situé à 0 km. avec une note de 18.11<br>
+CHU - Gabriel-Montpied, Clermont-Ferrand (63):Un établissement Public situé à 136 km. avec une note de 18.03<br>
+CHU, Besançon (25):Un établissement Public situé à 188 km. avec une note de 17.13"
+2025-02-13 10:45:50,Conseille moi un hôpital à Marseille,Marseille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs établissements du palmarès général dans un rayon de 50km autour de Marseille:
+Hôpital privé de Provence, Aix-en-Provence (13):Un établissement Privé situé à 26 km. avec une note de 124.0<br>
+Hôpital de la Timone (adultes), Marseille (13):Un établissement Public situé à 0 km. avec une note de 113.0<br>
+Hôpital Saint-Joseph, Marseille (13):Un établissement Public situé à 0 km. avec une note de 108.0"
+2025-02-13 10:46:09,Je chercher un service de pneumologie à Paris,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs établissements pour la pathologie: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un établissement Public situé à 0 km. avec une note de 18.7<br>
+Hôpital Cochin, Paris (75):Un établissement Public situé à 0 km. avec une note de 18.47<br>
+Hôpital privé d’Antony, Antony (92):Un établissement Privé situé à 11 km. avec une note de 18.42"
+2025-02-13 10:54:11,Je veux faire corriger mon strabisme à Lyon,Lyon,aucune correspondance,Strabisme,"Voici les 3 meilleurs établissements pour la pathologie: Strabisme dans un rayon de 200km autour de Lyon:
+Clinique de la Part-Dieu, Lyon (69):Un établissement Privé situé à 0 km. avec une note de 18.11<br>
+CHU - Gabriel-Montpied, Clermont-Ferrand (63):Un établissement Public situé à 136 km. avec une note de 18.03<br>
+CHU, Besançon (25):Un établissement Public situé à 188 km. avec une note de 17.13"
+2025-02-13 10:54:11,Je veux faire corriger mon strabisme à Lyon,Lyon,aucune correspondance,Strabisme,"Voici les 3 meilleurs établissements pour la pathologie: Strabisme dans un rayon de 200km autour de Lyon:
+Clinique de la Part-Dieu, Lyon (69):Un établissement Privé situé à 0 km. avec une note de 18.11<br>
+CHU - Gabriel-Montpied, Clermont-Ferrand (63):Un établissement Public situé à 136 km. avec une note de 18.03<br>
+CHU, Besançon (25):Un établissement Public situé à 188 km. avec une note de 17.13"
+2025-02-13 10:56:11,Conseille moi un hôpital à Marseille,Marseille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs établissements du palmarès général dans un rayon de 50km autour de Marseille:
+Hôpital privé de Provence, Aix-en-Provence (13):Un établissement Privé situé à 26 km. avec une note de 124.0<br>
+Hôpital de la Timone (adultes), Marseille (13):Un établissement Public situé à 0 km. avec une note de 113.0<br>
+Hôpital Saint-Joseph, Marseille (13):Un établissement Public situé à 0 km. avec une note de 108.0"
+2025-02-13 10:56:30,Je chercher un service de pneumologie à Paris,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs établissements pour la pathologie: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un établissement Public situé à 2 km. avec une note de 18.7<br>
+Hôpital Cochin, Paris (75):Un établissement Public situé à 2 km. avec une note de 18.47<br>
+Hôpital privé d’Antony, Antony (92):Un établissement Privé situé à 11 km. avec une note de 18.42"
+2025-02-13 10:56:40,Où faire soigner mon glaucome à proximité de Valmont ?,Valmont,aucune correspondance,Glaucome,"Voici les 3 meilleurs établissements pour la pathologie: Glaucome dans un rayon de 200km autour de Valmont:
+CH national d’ophtalmologie des Quinze-Vingts, Paris (75):Un établissement Public situé à 166 km. avec une note de 19.0<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un établissement Public situé à 166 km. avec une note de 18.96<br>
+Fondation Rothschild, Paris (75):Un établissement Public situé à 166 km. avec une note de 18.92"
+2025-02-13 10:56:40,Où faire soigner mon glaucome à proximité de Valmont ?,Valmont,aucune correspondance,Glaucome,"Voici les 3 meilleurs établissements pour la pathologie: Glaucome dans un rayon de 200km autour de Valmont:
+CH national d’ophtalmologie des Quinze-Vingts, Paris (75):Un établissement Public situé à 166 km. avec une note de 19.0<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un établissement Public situé à 166 km. avec une note de 18.96<br>
+Fondation Rothschild, Paris (75):Un établissement Public situé à 166 km. avec une note de 18.92"
+2025-02-13 11:05:12,Je veux faire corriger mon strabisme à Lyon,Lyon,aucune correspondance,Strabisme,"Voici les 3 meilleurs établissements pour la pathologie: Strabisme dans un rayon de 200km autour de Lyon:
+Clinique de la Part-Dieu, Lyon (69):Un établissement Privé situé à 0 km. avec une note de 18.11<br>
+CHU - Gabriel-Montpied, Clermont-Ferrand (63):Un établissement Public situé à 136 km. avec une note de 18.03<br>
+CHU, Besançon (25):Un établissement Public situé à 188 km. avec une note de 17.13"
+2025-02-13 11:05:12,Je veux faire corriger mon strabisme à Lyon,Lyon,aucune correspondance,Strabisme,"Voici les 3 meilleurs établissements pour la pathologie: Strabisme dans un rayon de 200km autour de Lyon:
+Clinique de la Part-Dieu, Lyon (69):Un établissement Privé situé à 0 km. avec une note de 18.11<br>
+CHU - Gabriel-Montpied, Clermont-Ferrand (63):Un établissement Public situé à 136 km. avec une note de 18.03<br>
+CHU, Besançon (25):Un établissement Public situé à 188 km. avec une note de 17.13"
+2025-02-13 11:05:41,Conseille moi un hôpital à Marseille,Marseille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs établissements du palmarès général dans un rayon de 50km autour de Marseille:
+Hôpital privé de Provence, Aix-en-Provence (13):Un établissement Privé situé à 26 km. avec une note de 124.0<br>
+Hôpital de la Timone (adultes), Marseille (13):Un établissement Public situé à 0 km. avec une note de 113.0<br>
+Hôpital Saint-Joseph, Marseille (13):Un établissement Public situé à 0 km. avec une note de 108.0"
+2025-02-13 11:06:00,Je chercher un service de pneumologie à Paris,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs établissements pour la pathologie: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un établissement Public situé à 2 km. avec une note de 18.7<br>
+Hôpital Cochin, Paris (75):Un établissement Public situé à 2 km. avec une note de 18.47<br>
+Hôpital privé d’Antony, Antony (92):Un établissement Privé situé à 11 km. avec une note de 18.42"
+2025-02-13 11:06:11,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs établissements pour la pathologie Glaucome dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-13 11:06:11,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs établissements pour la pathologie Glaucome dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-13 11:29:58,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs établissements pour la pathologie: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un établissement Public situé à 61 km. avec une note de 18.69<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un établissement Public situé à 0 km. avec une note de 18.11<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un établissement Public situé à 50 km. avec une note de 17.87"
+2025-02-13 11:29:58,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs établissements pour la pathologie: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un établissement Public situé à 61 km. avec une note de 18.69<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un établissement Public situé à 0 km. avec une note de 18.11<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un établissement Public situé à 50 km. avec une note de 17.87"
+2025-02-13 11:32:32,J'ai une gastro-entérite et je suis très inquiet. Où puis-je aller à Lille pour me faire soigner ?,Lille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs établissements du palmarès général dans un rayon de 50km autour de Lille:
+CHU, Lille (59):Un établissement Public situé à 0 km. avec une note de 370.0<br>
+CH, Valenciennes (59):Un établissement Public situé à 45 km. avec une note de 119.0<br>
+Hôpital privé Le Bois, Lille (59):Un établissement Privé situé à 0 km. avec une note de 61.0"
+2025-02-13 11:32:50,Je veux faire corriger mon strabisme dans un hôpital madrilène,ville étrangère,Public,Strabisme,"Voici les 3 meilleurs établissements pour la pathologie: Strabisme dans un rayon de 200km autour de ville étrangère:
+Hôpital Nord, Marseille (13):Un établissement Public situé à 50 km. avec une note de 18.1<br>
+Hôpital Saint-Joseph, Marseille (13):Un établissement Public situé à 50 km. avec une note de 16.77<br>
+CHU - Hôpital Gui-de-Chauliac, Montpellier (34):Un établissement Public situé à 175 km. avec une note de 16.17"
+2025-02-13 11:32:50,Je veux faire corriger mon strabisme dans un hôpital madrilène,ville étrangère,Public,Strabisme,"Voici les 3 meilleurs établissements pour la pathologie: Strabisme dans un rayon de 200km autour de ville étrangère:
+Hôpital Nord, Marseille (13):Un établissement Public situé à 50 km. avec une note de 18.1<br>
+Hôpital Saint-Joseph, Marseille (13):Un établissement Public situé à 50 km. avec une note de 16.77<br>
+CHU - Hôpital Gui-de-Chauliac, Montpellier (34):Un établissement Public situé à 175 km. avec une note de 16.17"
+2025-02-13 11:33:11,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la pathologie Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-13 11:33:11,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la pathologie Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-13 11:43:39,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la pathologie Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-13 11:43:39,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la pathologie Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-13 11:44:28,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la pathologie Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-13 11:44:28,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la pathologie Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-13 11:44:57,Conseille moi un hôpital à Marseille,Marseille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs établissements du palmarès général dans un rayon de 50km autour de Marseille:
+Hôpital privé de Provence, Aix-en-Provence (13):Un établissement Privé situé à 26 km. avec une note de 124.0<br>
+Hôpital de la Timone (adultes), Marseille (13):Un établissement Public situé à 0 km. avec une note de 113.0<br>
+Hôpital Saint-Joseph, Marseille (13):Un établissement Public situé à 0 km. avec une note de 108.0"
+2025-02-13 11:45:14,Je chercher un service de pneumologie à Paris,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs établissements pour la pathologie: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un établissement Public situé à 2 km. avec une note de 18.7<br>
+Hôpital Cochin, Paris (75):Un établissement Public situé à 2 km. avec une note de 18.47<br>
+Hôpital privé d’Antony, Antony (92):Un établissement Privé situé à 11 km. avec une note de 18.42"
+2025-02-13 11:45:25,Où faire soigner mon glaucome à proximité de Valmont ?,Valmont,aucune correspondance,Glaucome,"Voici les 3 meilleurs établissements pour la pathologie: Glaucome dans un rayon de 200km autour de Valmont:
+CH national d’ophtalmologie des Quinze-Vingts, Paris (75):Un établissement Public situé à 166 km. avec une note de 19.0<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un établissement Public situé à 166 km. avec une note de 18.96<br>
+Fondation Rothschild, Paris (75):Un établissement Public situé à 166 km. avec une note de 18.92"
+2025-02-13 11:45:25,Où faire soigner mon glaucome à proximité de Valmont ?,Valmont,aucune correspondance,Glaucome,"Voici les 3 meilleurs établissements pour la pathologie: Glaucome dans un rayon de 200km autour de Valmont:
+CH national d’ophtalmologie des Quinze-Vingts, Paris (75):Un établissement Public situé à 166 km. avec une note de 19.0<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un établissement Public situé à 166 km. avec une note de 18.96<br>
+Fondation Rothschild, Paris (75):Un établissement Public situé à 166 km. avec une note de 18.92"
+2025-02-13 13:36:25,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la pathologie Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-13 13:36:25,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la pathologie Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-13 13:59:02,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la pathologie Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-13 13:59:02,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la pathologie Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-13 15:37:12,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la pathologie Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-13 15:37:12,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la pathologie Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-13 15:45:07,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la pathologie Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-13 15:45:07,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la pathologie Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-13 15:51:11,Je veux soigner mon cancer de la Thyroide à Paris,Paris,aucune correspondance,Cancer de la thyroïde,"Voici les 3 meilleurs établissements pour la pathologie: Cancer de la thyroïde dans un rayon de 50km autour de Paris:
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un établissement Public situé à 0 km. avec une note de 18.87<br>
+Clinique Turin, Paris (75):Un établissement Privé situé à 0 km. avec une note de 18.81<br>
+Gustave-Roussy (CLCC), Villejuif (94):Un établissement Public situé à 6 km. avec une note de 18.43"
+2025-02-13 15:54:14,Je veux soigner mon cancer de la Thyroide à Paris,Paris,aucune correspondance,Cancer de la thyroïde,"Voici les 3 meilleurs établissements pour la pathologie: Cancer de la thyroïde dans un rayon de 50km autour de Paris:
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un établissement Public situé à 0 km. avec une note de 18.87<br>
+Clinique Turin, Paris (75):Un établissement Privé situé à 0 km. avec une note de 18.81<br>
+Gustave-Roussy (CLCC), Villejuif (94):Un établissement Public situé à 6 km. avec une note de 18.43"
+2025-02-13 16:04:34,Je veux accoucher à Paris,Paris,aucune correspondance,Accouchements normaux,"Voici les 3 meilleurs établissements pour la pathologie: Accouchements normaux dans un rayon de 50km autour de Paris:
+Hôpital Paris Saint-Joseph, Paris (75):Un établissement Public situé à 0 km. avec une note de 18.7<br>
+CH, Versailles (78):Un établissement Public situé à 17 km. avec une note de 18.31<br>
+Hôpital privé d’Antony, Antony (92):Un établissement Public situé à 11 km. avec une note de 18.18"
+2025-02-13 16:24:43,Je chercher un service de pneumologie à Paris,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs établissements pour la pathologie: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un établissement Public situé à 2 km. avec une note de 18.7<br>
+Hôpital Cochin, Paris (75):Un établissement Public situé à 2 km. avec une note de 18.47<br>
+Hôpital privé d’Antony, Antony (92):Un établissement Privé situé à 11 km. avec une note de 18.42"
+2025-02-13 16:26:42,Je chercher un service de pneumologie à Paris,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs établissements pour la pathologie: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un établissement Public situé à 2 km. avec une note de 18.7<br>
+Hôpital Cochin, Paris (75):Un établissement Public situé à 2 km. avec une note de 18.47<br>
+Hôpital privé d’Antony, Antony (92):Un établissement Privé situé à 11 km. avec une note de 18.42"
+2025-02-13 17:26:43,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la pathologie Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-13 17:26:43,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la pathologie Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-13 17:31:58,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la pathologie Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-13 17:31:58,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 0 meilleurs établissements pour la pathologie Endométriose dans un rayon de 200km autour de Saint-Avold:<br>
+"
+2025-02-13 17:32:37,Conseille moi un hôpital à Marseille,Marseille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs établissements du palmarès général dans un rayon de 50km autour de Marseille:
+Hôpital privé de Provence, Aix-en-Provence (13):Un établissement Privé situé à 26 km. avec une note de 124.0<br>
+Hôpital de la Timone (adultes), Marseille (13):Un établissement Public situé à 0 km. avec une note de 113.0<br>
+Hôpital Saint-Joseph, Marseille (13):Un établissement Public situé à 0 km. avec une note de 108.0"
+2025-02-13 17:33:04,Je chercher un service de pneumologie à Paris,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs établissements pour la pathologie: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un établissement Public situé à 2 km. avec une note de 18.7<br>
+Hôpital Cochin, Paris (75):Un établissement Public situé à 2 km. avec une note de 18.47<br>
+Hôpital privé d’Antony, Antony (92):Un établissement Privé situé à 11 km. avec une note de 18.42"
+2025-02-13 17:33:18,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs établissements pour la pathologie Glaucome dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-13 17:33:18,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs établissements pour la pathologie Glaucome dans un rayon de 200km autour de confusion:<br>
+"
+2025-02-13 17:35:23,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 3 meilleurs établissements pour la pathologie: Endométriose dans un rayon de 500km autour de Saint-Avold:
+CHU - Hôpital Jeanne-de-Flandre, Lille (59):Un établissement Public situé à 312 km. avec une note de 18.95<br>
+CHU - Hôpital d’Estaing, Clermont-Ferrand (63):Un établissement Public situé à 459 km. avec une note de 18.51<br>
+Hôpital Tenon, Paris (75):Un établissement Public situé à 320 km. avec une note de 18.39"
+2025-02-13 17:35:23,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 3 meilleurs établissements pour la pathologie: Endométriose dans un rayon de 500km autour de Saint-Avold:
+CHU - Hôpital Jeanne-de-Flandre, Lille (59):Un établissement Public situé à 312 km. avec une note de 18.95<br>
+CHU - Hôpital d’Estaing, Clermont-Ferrand (63):Un établissement Public situé à 459 km. avec une note de 18.51<br>
+Hôpital Tenon, Paris (75):Un établissement Public situé à 320 km. avec une note de 18.39"
+2025-02-13 17:40:46,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs établissements pour la pathologie: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un établissement Public situé à 61 km. avec une note de 18.69<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un établissement Public situé à 0 km. avec une note de 18.11<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un établissement Public situé à 50 km. avec une note de 17.87"
+2025-02-13 17:40:46,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs établissements pour la pathologie: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un établissement Public situé à 61 km. avec une note de 18.69<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un établissement Public situé à 0 km. avec une note de 18.11<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un établissement Public situé à 50 km. avec une note de 17.87"
+2025-02-13 17:55:50,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs établissements pour la pathologie: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un établissement Public situé à 61 km. avec une note de 18.69<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un établissement Public situé à 0 km. avec une note de 18.11<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un établissement Public situé à 50 km. avec une note de 17.87"
+2025-02-13 17:55:50,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs établissements pour la pathologie: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un établissement Public situé à 61 km. avec une note de 18.69<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un établissement Public situé à 0 km. avec une note de 18.11<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un établissement Public situé à 50 km. avec une note de 17.87"
+2025-02-13 18:52:57,Quel est  le meilleur hôpital en pneumologie de Paris?,Paris,aucune correspondance,Pneumologie,"Voici les 1 meilleurs établissements pour la pathologie: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un établissement Public situé à 2 km. avec une note de 18.7"
+2025-02-14 09:47:05,l'hôpital Necker est il un bon hôpital?,Paris,Public,aucune correspondance,"Voici les 3 meilleurs établissements du palmarès général dans un rayon de 50km autour de Paris:
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un établissement Public situé à 0 km. avec une note de 255.0<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un établissement Public situé à 0 km. avec une note de 217.0<br>
+Hôpital Cochin, Paris (75):Un établissement Public situé à 0 km. avec une note de 124.0"
+2025-02-14 09:50:06,l'hôpital Necker est il un bon hôpital?,Paris,Public,aucune correspondance,"Voici les 3 meilleurs établissements du palmarès général dans un rayon de 50km autour de Paris:
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un établissement Public situé à 0 km. avec une note de 255.0<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un établissement Public situé à 0 km. avec une note de 217.0<br>
+Hôpital Cochin, Paris (75):Un établissement Public situé à 0 km. avec une note de 124.0"
+2025-02-14 09:54:10,l'hôpital Necker est il un bon hôpital?,Paris,Public,aucune correspondance,"Voici les 3 meilleurs établissements du palmarès général dans un rayon de 50km autour de Paris:
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un établissement Public situé à 2 km. avec une note de 255.0<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un établissement Public situé à 2 km. avec une note de 217.0<br>
+Hôpital Cochin, Paris (75):Un établissement Public situé à 2 km. avec une note de 124.0"
+2025-02-14 09:58:41,l'hôpital Necker est il un bon hôpital?,confusion,Public,aucune correspondance,"Voici les 0 meilleurs établissements au classement général dans un rayon de 500km autour de confusion:<br>
+"
+2025-02-14 09:58:41,l'hôpital Necker est il un bon hôpital?,confusion,Public,aucune correspondance,"Voici les 0 meilleurs établissements au classement général dans un rayon de 500km autour de confusion:<br>
+"
+2025-02-14 10:06:33,l'hôpital Necker est il un bon hôpital?,Paris,Public,aucune correspondance,"Voici les 3 meilleurs établissements du palmarès général dans un rayon de 50km autour de Paris:
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un établissement Public situé à 0 km. avec une note de 255.0<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un établissement Public situé à 0 km. avec une note de 217.0<br>
+Hôpital Cochin, Paris (75):Un établissement Public situé à 0 km. avec une note de 124.0"
+2025-02-14 10:39:28,Conseille moi un hôpital à Marseille,Marseille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs établissements du palmarès général dans un rayon de 50km autour de Marseille:
+Hôpital privé de Provence, Aix-en-Provence (13):Un établissement Privé situé à 26 km. avec une note de 124.0<br>
+Hôpital de la Timone (adultes), Marseille (13):Un établissement Public situé à 0 km. avec une note de 113.0<br>
+Hôpital Saint-Joseph, Marseille (13):Un établissement Public situé à 0 km. avec une note de 108.0"
+2025-02-14 10:41:18,Je chercher un service de pneumologie à Paris ,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs établissements pour la pathologie: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un établissement Public situé à 2 km. avec une note de 18.7<br>
+Hôpital Cochin, Paris (75):Un établissement Public situé à 2 km. avec une note de 18.47<br>
+Hôpital privé d’Antony, Antony (92):Un établissement Privé situé à 11 km. avec une note de 18.42"
+2025-02-14 10:41:44,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs établissements pour la pathologie Glaucome dans un rayon de 500km autour de confusion:<br>
+"
+2025-02-14 10:41:44,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs établissements pour la pathologie Glaucome dans un rayon de 500km autour de confusion:<br>
+"
+2025-02-14 10:43:38,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs établissements pour la pathologie Glaucome dans un rayon de 500km autour de confusion:<br>
+"
+2025-02-14 10:43:38,Où faire soigner mon glaucome à proximité de Valmont ?,confusion,aucune correspondance,Glaucome,"Voici les 0 meilleurs établissements pour la pathologie Glaucome dans un rayon de 500km autour de confusion:<br>
+"
+2025-02-14 10:49:24,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs établissements pour la pathologie: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un établissement Public situé à 61 km. avec une note de 18.69<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un établissement Public situé à 0 km. avec une note de 18.11<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un établissement Public situé à 50 km. avec une note de 17.87"
+2025-02-14 10:49:24,Y a-t-il des hôpitaux publics avec un service de proctologie dans la région Nantaise ?,Nantes,Public,Proctologie,"Voici les 3 meilleurs établissements pour la pathologie: Proctologie dans un rayon de 100km autour de Nantes:
+CH, La Roche-sur-Yon (85):Un établissement Public situé à 61 km. avec une note de 18.69<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un établissement Public situé à 0 km. avec une note de 18.11<br>
+Clinique mutualiste de l’Estuaire, Saint-Nazaire (44):Un établissement Public situé à 50 km. avec une note de 17.87"
+2025-02-14 10:51:58,J'ai une gastro-entérite et je suis très inquiet. Où puis-je aller à Lille pour me faire soigner ?,Lille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs établissements du palmarès général dans un rayon de 50km autour de Lille:
+CHU, Lille (59):Un établissement Public situé à 0 km. avec une note de 370.0<br>
+CH, Valenciennes (59):Un établissement Public situé à 45 km. avec une note de 119.0<br>
+Hôpital privé Le Bois, Lille (59):Un établissement Privé situé à 0 km. avec une note de 61.0"
+2025-02-14 10:55:42,Est-ce que l'hôpital Necker est un bon hôpital ?,Paris,Public,aucune correspondance,"Voici les 3 meilleurs établissements du palmarès général dans un rayon de 50km autour de Paris:
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un établissement Public situé à 0 km. avec une note de 255.0<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un établissement Public situé à 0 km. avec une note de 217.0<br>
+Hôpital Cochin, Paris (75):Un établissement Public situé à 0 km. avec une note de 124.0"
+2025-02-14 10:56:41,Est-ce que l'hôpital Necker est un bon hôpital ?,Paris,Public,aucune correspondance,"Voici les 3 meilleurs établissements du palmarès général dans un rayon de 50km autour de Paris:
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un établissement Public situé à 0 km. avec une note de 255.0<br>
+Hôpital Paris Saint-Joseph, Paris (75):Un établissement Public situé à 0 km. avec une note de 217.0<br>
+Hôpital Cochin, Paris (75):Un établissement Public situé à 0 km. avec une note de 124.0"
+2025-02-14 11:00:35,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 3 meilleurs établissements pour la pathologie: Endométriose dans un rayon de 500km autour de Saint-Avold:
+CHU - Hôpital Jeanne-de-Flandre, Lille (59):Un établissement Public situé à 312 km. avec une note de 18.95<br>
+CHU - Hôpital d’Estaing, Clermont-Ferrand (63):Un établissement Public situé à 459 km. avec une note de 18.51<br>
+Hôpital Tenon, Paris (75):Un établissement Public situé à 320 km. avec une note de 18.39"
+2025-02-14 11:00:35,Est-ce que l'hôpital de Saint-Avold est capable de traiter mes problèmes d'endométriose ?,Saint-Avold,Public,Endométriose,"Voici les 3 meilleurs établissements pour la pathologie: Endométriose dans un rayon de 500km autour de Saint-Avold:
+CHU - Hôpital Jeanne-de-Flandre, Lille (59):Un établissement Public situé à 312 km. avec une note de 18.95<br>
+CHU - Hôpital d’Estaing, Clermont-Ferrand (63):Un établissement Public situé à 459 km. avec une note de 18.51<br>
+Hôpital Tenon, Paris (75):Un établissement Public situé à 320 km. avec une note de 18.39"
+2025-02-14 12:08:06,Conseille moi un hôpital à Marseille,Marseille,aucune correspondance,aucune correspondance,"Voici les 3 meilleurs établissements du palmarès général dans un rayon de 50km autour de Marseille:
+Hôpital privé de Provence, Aix-en-Provence (13):Un établissement Privé situé à 26 km. avec une note de 124.0<br>
+Hôpital de la Timone (adultes), Marseille (13):Un établissement Public situé à 0 km. avec une note de 113.0<br>
+Hôpital Saint-Joseph, Marseille (13):Un établissement Public situé à 0 km. avec une note de 108.0"
+2025-02-14 12:08:18,Je chercher un service de pneumologie à Paris,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs établissements pour la pathologie: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un établissement Public situé à 2 km. avec une note de 18.7<br>
+Hôpital Cochin, Paris (75):Un établissement Public situé à 2 km. avec une note de 18.47<br>
+Hôpital privé d’Antony, Antony (92):Un établissement Privé situé à 11 km. avec une note de 18.42"
+2025-02-14 12:08:51,"Je veux soigner mon cancer à Paris dans un hôpital public
+",Paris,Public,Cancer du foie,"Voici les 3 meilleurs établissements pour la pathologie: Cancer du foie dans un rayon de 50km autour de Paris:
+Hôpital Paul-Brousse, Villejuif (94):Un établissement Public situé à 8 km. avec une note de 18.7<br>
+Hôpital Beaujon, Clichy (92):Un établissement Public situé à 4 km. avec une note de 18.38<br>
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un établissement Public situé à 2 km. avec une note de 17.8"
+2025-02-14 13:55:22,Quels sont les 5 meilleurs hôpitaux de Lille?,Lille,aucune correspondance,aucune correspondance,"Voici les 5 meilleurs établissements du palmarès général dans un rayon de 200km autour de Lille:
+CHU, Lille (59):Un établissement Public situé à 0 km. avec une note de 370.0<br>
+CH, Valenciennes (59):Un établissement Public situé à 45 km. avec une note de 119.0<br>
+Hôpital privé Le Bois, Lille (59):Un établissement Privé situé à 0 km. avec une note de 61.0<br>
+Hôpital privé La Louvière, Lille (59):Un établissement Privé situé à 0 km. avec une note de 58.0<br>
+Clinique Mathilde, Rouen (76):Un établissement Privé situé à 193 km. avec une note de 53.0"
+2025-02-14 13:55:22,Quels sont les 5 meilleurs hôpitaux de Lille?,Lille,aucune correspondance,aucune correspondance,"Voici les 5 meilleurs établissements du palmarès général dans un rayon de 200km autour de Lille:
+CHU, Lille (59):Un établissement Public situé à 0 km. avec une note de 370.0<br>
+CH, Valenciennes (59):Un établissement Public situé à 45 km. avec une note de 119.0<br>
+Hôpital privé Le Bois, Lille (59):Un établissement Privé situé à 0 km. avec une note de 61.0<br>
+Hôpital privé La Louvière, Lille (59):Un établissement Privé situé à 0 km. avec une note de 58.0<br>
+Clinique Mathilde, Rouen (76):Un établissement Privé situé à 193 km. avec une note de 53.0"
+2025-02-14 15:13:21,"""J'ai une rage de dents et je suis à la Roche-sur-yon, que me conseille-tu ?  """,La Roche-sur-Yon,aucune correspondance,Chirurgie dentaire et orale de l’enfant et de l’adolescent,"Voici les 3 meilleurs établissements pour la pathologie: Chirurgie dentaire et orale de l’enfant et de l’adolescent dans un rayon de 100km autour de La Roche-sur-Yon:
+Clinique mutualiste Jules-Verne, Nantes (44):Un établissement Privé situé à 61 km. avec une note de 18.82<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un établissement Public situé à 61 km. avec une note de 18.63<br>
+Santé Atlantique, Saint-Herblain (44):Un établissement Privé situé à 63 km. avec une note de 18.58"
+2025-02-14 15:13:21,"""J'ai une rage de dents et je suis à la Roche-sur-yon, que me conseille-tu ?  """,La Roche-sur-Yon,aucune correspondance,Chirurgie dentaire et orale de l’enfant et de l’adolescent,"Voici les 3 meilleurs établissements pour la pathologie: Chirurgie dentaire et orale de l’enfant et de l’adolescent dans un rayon de 100km autour de La Roche-sur-Yon:
+Clinique mutualiste Jules-Verne, Nantes (44):Un établissement Privé situé à 61 km. avec une note de 18.82<br>
+CHU - Hôtel-Dieu - Hôpital mère-enfants, Nantes (44):Un établissement Public situé à 61 km. avec une note de 18.63<br>
+Santé Atlantique, Saint-Herblain (44):Un établissement Privé situé à 63 km. avec une note de 18.58"
+2025-02-14 16:12:44,Je veux faire de la chirurgie cardiauqe sur Paris ?,Paris,aucune correspondance,Chirurgie cardiaque adulte,"Voici les 3 meilleurs établissements pour la pathologie: Chirurgie cardiaque adulte dans un rayon de 50km autour de Paris:
+Hôpital de la Pitié-Salpêtrière, Paris (75):Un établissement Public situé à 0 km. avec une note de 19.48<br>
+Hôpital Bichat, Paris (75):Un établissement Public situé à 0 km. avec une note de 18.76<br>
+Centre cardiologique du Nord, Saint-Denis (93):Un établissement Privé situé à 9 km. avec une note de 18.5"
+2025-02-14 16:14:20,J'ai une pneumonie à Paris,Paris,aucune correspondance,Pneumologie,"Voici les 3 meilleurs établissements pour la pathologie: Pneumologie dans un rayon de 50km autour de Paris:
+Hôpital Bichat, Paris (75):Un établissement Public situé à 0 km. avec une note de 18.7<br>
+Hôpital Cochin, Paris (75):Un établissement Public situé à 0 km. avec une note de 18.47<br>
+Hôpital privé d’Antony, Antony (92):Un établissement Privé situé à 11 km. avec une note de 18.42"

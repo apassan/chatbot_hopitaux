@@ -1,0 +1,52 @@
+Rang,Nom,Nom Print,Ville,FINESS,Score final,Evolution
+,,,,,,
+1,SA COURLANCY SANTE,"Polyclinique de Reims-Bezannes, (51)",Bezannes,510000532,226,0
+2,POLYCLINIQUE DE L'ATLANTIQUE,"Santé Atlantique, Saint-Herblain (44)",ST HERBLAIN,440033819,192,
+3,CLINIQUE RHENA GCS,"Clinique Rhéna, Strasbourg (67)",Strasbourg,670018068,142,3
+4,CH PRIVÉ ST-GREGOIRE,"CH privé Saint-Grégoire, Saint-Grégoire (35)",ST GREGOIRE,350000121,140,-1
+5,POLYCLINIQUE DU PARC RAMBOT,"Hôpital privé de Provence, Aix-en-Provence (13)",AIX EN PROVENCE,130786361,124,
+6,CENTRE MEDICO CHIRUGICAL AMBROISE PARE HARTMANN,"Groupe hospitalier privé Ambroise Paré-Hartmann, Neuilly-sur-Seine (92)",Neuilly-sur-Seine,920810736,118,28
+7,CLINIQUE CAPIO LA CROIX DU SUD,"Clinique La Croix du Sud, Toulouse (31)",,310026927,106,-3
+8,CLINIQUE DE L'ANJOU,"Clinique de l’Anjou, Angers (49)",ANGERS,490014909,98,1
+9,CL ST JEAN SUD DE FRANCE,"Clinique Saint-Jean - Sud de France, Saint-Jean-de-Védas (34)",St Jean De Vedas Cedex,340024314,97,
+10,SA CLINIQUE PASTEUR,"Clinique Pasteur, Toulouse (31)",TOULOUSE,310780259,96,-5
+11,NOUVELLES CLINIQUES NANTAISES,"Hôpital privé du Confluent, Nantes (44)",NANTES,440041580,93,-4
+12,CH PRIVÉ ST MARTIN CAEN,"CH privé Saint-Martin, Caen (14)",CAEN,140017237,92,0
+13,CLINIQUE SAINT AUGUSTIN,"Clinique Saint-Augustin, Bordeaux (33)",BORDEAUX,330780081,91,1
+14,NOUVELLE CLINIQUE DE L'UNION,"Clinique de l’Union, Saint-Jean (31)",L UNION,310780283,90,1
+15,MEDIPOLE HOPITAL PRIVÉ,"Médipôle Hôpital Privé, Villeurbanne (69)",Villeurbanne,690041124,89,1
+16,CLINIQUE JULES VERNE,"Clinique mutualiste Jules-Verne, Nantes (44)",NANTES,440029379,89,2
+17,CLINIQUE CHATAIGNERAIE - BEAUMONT,"Hôpital privé La Châtaigneraie, Beaumont (63)",BEAUMONT,630781839,83,-9
+18,HÔPITAL PRIVÉ JEAN MERMOZ,"Hôpital privé Jean-Mermoz, Lyon (69)",LYON,690023411,81,-7
+19,INFIRMERIE PROTESTANTE DE LYON,"Infirmerie protestante de Lyon, Caluire-et-Cuire (69)",CALUIRE ET CUIRE,690793468,77,14
+20,HÔPITAL PRIVÉ DIJON BOURGOGNE,"Hôpital privé Dijon-Bourgogne, Dijon (21)",,210012670,72,5
+21,CLINIQUE SAINT-CYPRIEN RIVE GAUCHE,"Clinique Rive-Gauche, Toulouse (31)",TOULOUSE,310026083,71,2
+22,SAS POLYCLINIQUE DE LIMOGES,"Polyclinique de Limoges, Limoges (87)",Limoges,870017415,71,-12
+23,POLYCLINIQUE BX-NORD AQUITAINE,"Polyclinique Bordeaux-Nord-Aquitaine, Bordeaux (33)",BORDEAUX,330780479,70,21
+24,HÔPITAL PRIVÉ D ANTONY,"Hôpital privé d’Antony, Antony (92)",ANTONY,920300043,70,-5
+25,POLYCLINIQUE LONGUES ALLEES,"Pôle santé Oréliance, Saran (45)",ST JEAN DE BRAYE,450010079,70,
+26,CH PRIVÉ LOIRE,"Hôpital privé de la Loire, Saint-Etienne (42)",ST ETIENNE,420011413,69,3
+27,CLINIQUE JUGE,"Clinique Juge, Marseille (13)",MARSEILLE,130783723,68,10
+28,CLINIQUE DES CEDRES,"Clinique des Cèdres, Cornebarrieu (31)",CORNEBARRIEU,310781000,67,-6
+29,CAPIO CLINIQUE BELHARRA,"Clinique Belharra, Bayonne (64)",BAYONNE,640018206,63,7
+30,CLINIQUE DE L'ALLIANCE,"Nouvelle clinique de Tours, Saint-Cyr-sur-Loire (37)",ST CYR SUR LOIRE,370000093,63,
+31,CLINIQUE BELLEDONNE,"Clinique Belledonne, Saint-Martin-d’Hères (38)",ST MARTIN D HERES,380786442,62,-10
+32,POLYCLINIQUE DU BOIS,"Hôpital privé Le Bois, Lille (59)",LILLE,590780268,61,-5
+33,SAS MEDIPOLE DE NANCY,"Hôpital privé Nancy-Lorraine, (54)",Nancy,540026739,60,-13
+34,CLINIQUE SAINT GEORGE,"Clinique Saint-George, Nice (06)",NICE,60780715,60,-3
+35,CLINIQUE MEDIPOLE GARONNE,"Médipôle Garonne, Toulouse (31)",TOULOUSE,310780150,58,3
+36,POLYCLINIQUE DE LA LOUVIERE,"Hôpital privé La Louvière, Lille (59)",LILLE,590780383,58,9
+37,CENTRE MÉDICO-CHIRURGICAL DE L'ATLANTIQUE,"Clinique de l’Atlantique, Puilboreau (17)",PUILBOREAU,170780662,57,
+38,CLINIQUE LE MILLENAIRE,"Clinique du Millénaire, Montpellier (34)",MONTPELLIER,340015502,56,-10
+39,CLINIQUE DE LA SAUVEGARDE,"Clinique de la Sauvegarde, Lyon (69)",LYON,690780648,55,0
+40,SAS POLYCLINIQUE SAINT PRIVAT,"Polyclinique Saint-Privat, Boujan-sur-Libron (34)",BOUJAN SUR LIBRON,340015965,54,-5
+41,POLYCLINIQUE ST ROCH,"Polyclinique Saint-Roch, Montpellier (34)",,340022979,54,5
+42,CLINIQUE TIVOLI-DUCOS,"Clinique Tivoli-Ducos, Bordeaux (33)",BORDEAUX,330780115,53,
+43,CLINIQUE MATHILDE,"Clinique Mathilde, Rouen (76)",ROUEN,760025312,53,
+44,POLYCLINIQUE DE NAVARRE,"Polyclinique de Navarre, Pau (64)",PAU,640780946,52,3
+45,POLYCLINIQUE SAINT ROCH,"Polyclinique Médipôle Saint-Roch, Cabestany (66)",CABESTANY,660790387,52,-13
+46,HÔPITAL CLINIQUE CLAUDE BERNARD,"Hôpital-clinique Claude-Bernard, Metz (57)",METZ,570000646,52,
+47,CLINIQUE SAINT PIERRE,"Clinique Saint-Pierre, Perpignan (66)",PERPIGNAN,660780784,51,
+48,POLYCLINIQUE CLAIRVAL,"Hôpital privé Clairval, Marseille (13)",MARSEILLE,130784051,50,1
+49,POLYCLINIQUE LOUIS PASTEUR,"Clinique Louis-Pasteur, Essey-lès-Nancy (54)",ESSEY LES NANCY,540000478,49,
+50,CLINIQUE DU PARC LYON,"Clinique du Parc Lyon, Lyon (69)",Lyon,690000146,48,-10
