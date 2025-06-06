@@ -4,6 +4,7 @@ from langchain_community.chat_models import ChatOpenAI
 import pandas as pd
 import csv
 from dotenv import load_dotenv
+import streamlit as st
 
 
 class Appels_LLM:
@@ -195,8 +196,9 @@ class Appels_LLM:
         self.key_words=self.format_mapping_words_csv(self.paths["mapping_word_path"])
 #--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     def init_model(self) -> ChatOpenAI:
-        api_key = os.getenv("API_KEY")
-
+        #api_key = os.getenv("API_KEY")
+        api_key = st.secrets["API_KEY"]
+        
         # Initialise le modèle 
         self.model = ChatOpenAI(
             openai_api_key=api_key,
